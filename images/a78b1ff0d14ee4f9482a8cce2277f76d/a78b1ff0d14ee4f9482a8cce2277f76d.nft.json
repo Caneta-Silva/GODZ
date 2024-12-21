@@ -1,0 +1,78 @@
+{
+    "id": "a78b1ff0d14ee4f9482a8cce2277f76d",
+    "title": "Futuristic Alien Medic in Studio Ghibli style Landscape",
+    "description": "Futuristic Alien Medic in Studio Ghibli style Landscape",
+    "created": "2024-12-21 14:40:48.840409",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien medic in the style of Studio Ghibli",
+        "id": "960800c89c20ea25060b9de73ad326bd",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien medic in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:34:40.006345",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien medic in the style of Studio Ghibli",
+        "metadata": {
+            "element": "medic",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Medic in Studio Ghibli style Landscape"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641530369641.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/a78b1ff0d14ee4f9482a8cce2277f76d/a78b1ff0d14ee4f9482a8cce2277f76d.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "GlowingHealer",
+    "symbol": "A78B1",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/a78b1ff0d14ee4f9482a8cce2277f76d/a78b1ff0d14ee4f9482a8cce2277f76d.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "GODZ",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/a78b1ff0d14ee4f9482a8cce2277f76d/a78b1ff0d14ee4f9482a8cce2277f76d.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
