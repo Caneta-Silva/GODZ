@@ -1,0 +1,78 @@
+{
+    "id": "61dd59339354ec4311cb60a96877bb05",
+    "title": "Futuristic Alien Emperor - Studio Ghibli Style",
+    "description": "Futuristic Alien Emperor - Studio Ghibli Style",
+    "created": "2024-12-21 04:48:56.316146",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
+        "id": "e25eda80be7cfb32814dfa4c7ccb049d",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:34:39.942430",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
+        "metadata": {
+            "element": "emperor",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "forest",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Emperor - Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642927321894.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/61dd59339354ec4311cb60a96877bb05/61dd59339354ec4311cb60a96877bb05.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Zarodan Emperor",
+    "symbol": "61DD5",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/61dd59339354ec4311cb60a96877bb05/61dd59339354ec4311cb60a96877bb05.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "GODZ",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/61dd59339354ec4311cb60a96877bb05/61dd59339354ec4311cb60a96877bb05.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
