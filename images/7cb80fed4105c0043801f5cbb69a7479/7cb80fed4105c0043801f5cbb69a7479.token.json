@@ -1,0 +1,31 @@
+{
+    "id": "7cb80fed4105c0043801f5cbb69a7479",
+    "title": "UFO Over the White House",
+    "description": "nazi ufo above white house",
+    "created": "2024-12-21 15:06:09.962646",
+    "prompt": {
+        "prompt": "nazi ufo above white house",
+        "id": "ac071ce5d4e29bcf83e3186bb60ff724",
+        "prompt_history": [
+            "nazi ufo above white house"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 15:04:56.876956",
+        "seed_prompt": "nazi ufo above white house",
+        "metadata": null,
+        "template": null,
+        "title": "UFO Over the White House"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643392251362.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/7cb80fed4105c0043801f5cbb69a7479/7cb80fed4105c0043801f5cbb69a7479.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "ThirdReichHovercraft",
+    "symbol": "7CB80FED4",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/7cb80fed4105c0043801f5cbb69a7479/7cb80fed4105c0043801f5cbb69a7479.jpg"
+}
