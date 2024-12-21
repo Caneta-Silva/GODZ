@@ -1,0 +1,55 @@
+{
+    "id": "9151f13897f0eb386e749832a794c26b",
+    "title": "Futuristic Alien Tribe Warrior in the Style of Studio Ghibli",
+    "description": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli",
+    "created": "2024-12-21 09:46:38.251884",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli",
+        "id": "b8e84db7353211c8fe46e6e32cf75cf1",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:34:39.897506",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli",
+        "metadata": {
+            "element": "tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Tribe Warrior in the Style of Studio Ghibli"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641687331855.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/9151f13897f0eb386e749832a794c26b/9151f13897f0eb386e749832a794c26b.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Faylinn Starshifter",
+    "symbol": "9151F1389",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/9151f13897f0eb386e749832a794c26b/9151f13897f0eb386e749832a794c26b.jpg"
+}
