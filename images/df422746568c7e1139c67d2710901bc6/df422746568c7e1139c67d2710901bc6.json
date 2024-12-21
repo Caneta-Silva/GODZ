@@ -1,0 +1,52 @@
+{
+    "id": "df422746568c7e1139c67d2710901bc6",
+    "title": "Futuristic Paladin - Studio Ghibli Inspired",
+    "description": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
+    "created": "2024-12-21 14:40:33.282275",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
+        "id": "a6318f9f083e8080f48774da17864689",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:34:39.527567",
+        "seed_prompt": "Create a landscape full body image of a futuristic paladin style military in the style of Studio Ghibli",
+        "metadata": {
+            "element": "paladin style military",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Paladin - Studio Ghibli Inspired"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642317189432.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/df422746568c7e1139c67d2710901bc6/df422746568c7e1139c67d2710901bc6.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
