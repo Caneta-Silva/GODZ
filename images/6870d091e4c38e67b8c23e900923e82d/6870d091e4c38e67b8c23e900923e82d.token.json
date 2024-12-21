@@ -1,0 +1,55 @@
+{
+    "id": "6870d091e4c38e67b8c23e900923e82d",
+    "title": "The Alien Emperor's Enchanted Realm",
+    "description": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
+    "created": "2024-12-21 04:39:39.737387",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
+        "id": "26616f92293b294b157b1a725fb3df75",
+        "prompt_history": [
+            "Create a landscape full body image of a alien emperor in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:34:39.781901",
+        "seed_prompt": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
+        "metadata": {
+            "element": "emperor",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "The Alien Emperor's Enchanted Realm"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642401476126.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/6870d091e4c38e67b8c23e900923e82d/6870d091e4c38e67b8c23e900923e82d.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Galaxus Sovereign",
+    "symbol": "6870D091E",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/6870d091e4c38e67b8c23e900923e82d/6870d091e4c38e67b8c23e900923e82d.jpg"
+}
