@@ -1,0 +1,54 @@
+{
+    "id": "784b45561f1179909230f5e93f598f15",
+    "title": "The Divine Dialogue",
+    "description": "The Divine Dialogue",
+    "created": "2024-12-21 17:31:38.714245",
+    "prompt": {
+        "prompt": "hermes trismegistus conversing with god",
+        "id": "c983de9e70a26da887ba0a3b4e4e6b82",
+        "prompt_history": [
+            "hermes trismegistus conversing with god"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 17:30:29.373315",
+        "seed_prompt": "hermes trismegistus conversing with god",
+        "metadata": null,
+        "template": null,
+        "title": "The Divine Dialogue"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64332000427.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/784b45561f1179909230f5e93f598f15/784b45561f1179909230f5e93f598f15.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": null,
+    "symbol": "784B4",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/784b45561f1179909230f5e93f598f15/784b45561f1179909230f5e93f598f15.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "GODZ",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/784b45561f1179909230f5e93f598f15/784b45561f1179909230f5e93f598f15.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
