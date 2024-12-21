@@ -1,0 +1,45 @@
+{
+    "prompt": "\"Create a whimsical and grand Studio Ghibli inspired scene of an alien paladin leading a majestic army through a surreal landscape, surrounded by mystical creatures and floating islands. The paladin is adorned in intricate armor, wielding a glowing sword, with a noble expression as they traverse the colorful and otherworldly terrain. The army behind them consists of diverse alien species, each with their own unique weapons and armor, marching resolutely towards an unseen destination. The sky is filled with swirling clouds and ethereal lights, casting a magical glow over the entire scene.\"",
+    "id": "06a87428261d44d16fb8bba6d3c5dd8d",
+    "prompt_history": [
+        "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
+        {
+            "input": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
+            "output": "\"Create a whimsical and grand Studio Ghibli inspired scene of an alien paladin leading a majestic army through a surreal landscape, surrounded by mystical creatures and floating islands. The paladin is adorned in intricate armor, wielding a glowing sword, with a noble expression as they traverse the colorful and otherworldly terrain. The army behind them consists of diverse alien species, each with their own unique weapons and armor, marching resolutely towards an unseen destination. The sky is filled with swirling clouds and ethereal lights, casting a magical glow over the entire scene.\"",
+            "type": "enhanced"
+        }
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": "2024-12-21 12:50:49.697932",
+    "enhanced_prompt": true,
+    "seeded_at": "2024-12-21 02:34:39.692022",
+    "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
+    "metadata": {
+        "element": "paladin style military",
+        "style": "Studio Ghibli",
+        "aspect_ratio": "landscape",
+        "backdrop": "desert",
+        "animal": "elephant",
+        "modifiers": {
+            "image": "full body",
+            "element": "alien",
+            "backdrop": "futuristic alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": false,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": false
+        },
+        "animal": false,
+        "name": "Standard",
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+    },
+    "title": "The Galactic Crusade of the Alien Paladin"
+}
