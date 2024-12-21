@@ -1,0 +1,28 @@
+{
+    "id": "4d5f175db549c93419d7bafdb2a5487a",
+    "title": "Journey into the Cosmic Realm",
+    "description": "astral projection from the galactic consciousness",
+    "created": "2024-12-21 17:04:50.795366",
+    "prompt": {
+        "prompt": "astral projection from the galactic consciousness",
+        "id": "f38f1e51831bb7d2c617bb7586ab3992",
+        "prompt_history": [
+            "astral projection from the galactic consciousness"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 17:01:25.531156",
+        "seed_prompt": "astral projection from the galactic consciousness",
+        "metadata": null,
+        "template": null,
+        "title": "Journey into the Cosmic Realm"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b644213720075.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/4d5f175db549c93419d7bafdb2a5487a/4d5f175db549c93419d7bafdb2a5487a.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
