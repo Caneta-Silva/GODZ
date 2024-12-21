@@ -1,0 +1,78 @@
+{
+    "id": "59a10bd2a9586e780c0ca5e6d56ade87",
+    "title": "Futuristic Desert Nomad Warrior",
+    "description": "Futuristic Desert Nomad Warrior",
+    "created": "2024-12-21 02:04:04.274166",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli",
+        "id": "25b2025fb3681fdd34e08df4a2bb0fee",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 01:33:02.649119",
+        "seed_prompt": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli",
+        "metadata": {
+            "element": "desert tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Desert Nomad Warrior"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641636772743.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/59a10bd2a9586e780c0ca5e6d56ade87/59a10bd2a9586e780c0ca5e6d56ade87.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "GhibliDesertWarrior",
+    "symbol": "59A10",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/59a10bd2a9586e780c0ca5e6d56ade87/59a10bd2a9586e780c0ca5e6d56ade87.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "GODZ",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/59a10bd2a9586e780c0ca5e6d56ade87/59a10bd2a9586e780c0ca5e6d56ade87.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
