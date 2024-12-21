@@ -1,0 +1,52 @@
+{
+    "id": "b8ec8dca55f4c3bcfdb111c87ded1d0e",
+    "title": "Futuristic Tribe Warrior of the Enchanted Valley",
+    "description": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
+    "created": "2024-12-21 04:46:33.791907",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
+        "id": "4fa4ea2cf0119669e50021480f61640b",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:34:39.561861",
+        "seed_prompt": "Create a landscape full body image of a futuristic tribe warrior in the style of Studio Ghibli",
+        "metadata": {
+            "element": "tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "waterfall",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Tribe Warrior of the Enchanted Valley"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643112643129.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/b8ec8dca55f4c3bcfdb111c87ded1d0e/b8ec8dca55f4c3bcfdb111c87ded1d0e.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
