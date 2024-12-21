@@ -1,0 +1,31 @@
+{
+    "id": "b751c6e2fa7c0e9f081652a9dc4b4c2d",
+    "title": "Transmutation of Quantum Cloud into Pure Consciousness",
+    "description": "the quantum cloud present in the moment, transmuting from the 3D reality into pure consciousness and seeing all",
+    "created": "2024-12-21 18:10:01.256622",
+    "prompt": {
+        "prompt": "the quantum cloud present in the moment, transmuting from the 3D reality into pure consciousness and seeing all",
+        "id": "144d95f387ce9ae0c3d9aaaaa9e01eaa",
+        "prompt_history": [
+            "the quantum cloud present in the moment, transmuting from the 3D reality into pure consciousness and seeing all"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 18:08:35.103163",
+        "seed_prompt": "the quantum cloud present in the moment, transmuting from the 3D reality into pure consciousness and seeing all",
+        "metadata": null,
+        "template": null,
+        "title": "Transmutation of Quantum Cloud into Pure Consciousness"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642477037278.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/b751c6e2fa7c0e9f081652a9dc4b4c2d/b751c6e2fa7c0e9f081652a9dc4b4c2d.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "QuantumConsciousCloud",
+    "symbol": "B751C6E2F",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/b751c6e2fa7c0e9f081652a9dc4b4c2d/b751c6e2fa7c0e9f081652a9dc4b4c2d.jpg"
+}
