@@ -1,0 +1,54 @@
+{
+    "id": "589ec996346bfb2e240668a95263435b",
+    "title": "Majestic King of Chicken",
+    "description": "Majestic King of Chicken",
+    "created": "2024-12-21 19:31:26.583206",
+    "prompt": {
+        "prompt": "king of chicken",
+        "id": "cf24d69c9d4bd572e78be1799f3b1bbc",
+        "prompt_history": [
+            "king of chicken"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 19:28:59.319763",
+        "seed_prompt": "king of chicken",
+        "metadata": null,
+        "template": null,
+        "title": "Majestic King of Chicken"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641374198505.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/589ec996346bfb2e240668a95263435b/589ec996346bfb2e240668a95263435b.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": null,
+    "symbol": "589EC",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/589ec996346bfb2e240668a95263435b/589ec996346bfb2e240668a95263435b.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "GODZ",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/589ec996346bfb2e240668a95263435b/589ec996346bfb2e240668a95263435b.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
