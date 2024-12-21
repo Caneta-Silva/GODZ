@@ -1,0 +1,28 @@
+{
+    "id": "08c427817e21c5bf15012ba3d9da5cdc",
+    "title": "Ghibli-inspired Nazi Soldier",
+    "description": "a nazi soldier in the style of studio Ghibli",
+    "created": "2024-12-21 02:20:17.437272",
+    "prompt": {
+        "prompt": "a nazi soldier in the style of studio Ghibli",
+        "id": "26dc6831db6c40536489931d87d8b7fd",
+        "prompt_history": [
+            "a nazi soldier in the style of studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:18:11.944588",
+        "seed_prompt": "a nazi soldier in the style of studio Ghibli",
+        "metadata": null,
+        "template": null,
+        "title": "Ghibli-inspired Nazi Soldier"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641343320098.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/08c427817e21c5bf15012ba3d9da5cdc/08c427817e21c5bf15012ba3d9da5cdc.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
