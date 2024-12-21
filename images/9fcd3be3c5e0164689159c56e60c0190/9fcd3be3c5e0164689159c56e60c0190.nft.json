@@ -1,0 +1,54 @@
+{
+    "id": "9fcd3be3c5e0164689159c56e60c0190",
+    "title": "Dreamscape Encounter",
+    "description": "Dreamscape Encounter",
+    "created": "2024-12-21 17:33:31.678981",
+    "prompt": {
+        "prompt": "a crawling crackhead in a dark field has a blue fairy in front of him blowing white powder to his face and his conscience his being blown back to the background to a field full of color",
+        "id": "33a40c9bf93dae9059fa4c3f5254d08f",
+        "prompt_history": [
+            "a crawling crackhead in a dark field has a blue fairy in front of him blowing white powder to his face and his conscience his being blown back to the background to a field full of color"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 17:29:57.113736",
+        "seed_prompt": "a crawling crackhead in a dark field has a blue fairy in front of him blowing white powder to his face and his conscience his being blown back to the background to a field full of color",
+        "metadata": null,
+        "template": null,
+        "title": "Dreamscape Encounter"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b6472835435.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/9fcd3be3c5e0164689159c56e60c0190/9fcd3be3c5e0164689159c56e60c0190.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "FairyDustDreamscape",
+    "symbol": "9FCD3",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/9fcd3be3c5e0164689159c56e60c0190/9fcd3be3c5e0164689159c56e60c0190.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "GODZ",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/9fcd3be3c5e0164689159c56e60c0190/9fcd3be3c5e0164689159c56e60c0190.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
