@@ -1,0 +1,54 @@
+{
+    "id": "027c00c258f19fccaeeb8cd45191d60e",
+    "title": "Celestial Encounters: The Unity of the Universe",
+    "description": "Celestial Encounters: The Unity of the Universe",
+    "created": "2024-12-21 17:41:41.346685",
+    "prompt": {
+        "prompt": "hermetic frequency of the egyptians meeting the family of god encompassing the entire oneness of the universe in the style of studio Ghibli",
+        "id": "09f02f503f55cf19807f47080452351e",
+        "prompt_history": [
+            "hermetic frequency of the egyptians meeting the family of god encompassing the entire oneness of the universe in the style of studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 17:40:31.599517",
+        "seed_prompt": "hermetic frequency of the egyptians meeting the family of god encompassing the entire oneness of the universe in the style of studio Ghibli",
+        "metadata": null,
+        "template": null,
+        "title": "Celestial Encounters: The Unity of the Universe"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643287767097.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/027c00c258f19fccaeeb8cd45191d60e/027c00c258f19fccaeeb8cd45191d60e.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": null,
+    "symbol": "027C0",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/027c00c258f19fccaeeb8cd45191d60e/027c00c258f19fccaeeb8cd45191d60e.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "GODZ",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/027c00c258f19fccaeeb8cd45191d60e/027c00c258f19fccaeeb8cd45191d60e.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
