@@ -1,0 +1,78 @@
+{
+    "id": "12383e28b8d40ee1e925703b26bf1605",
+    "title": "Futuristic Medic in Studio Ghibli Style",
+    "description": "Futuristic Medic in Studio Ghibli Style",
+    "created": "2024-12-21 12:45:01.669558",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic medic in the style of Studio Ghibli",
+        "id": "1baf345eaf106a6cfdb7a02eb9af6f3c",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic medic in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:34:39.665541",
+        "seed_prompt": "Create a landscape full body image of a futuristic medic in the style of Studio Ghibli",
+        "metadata": {
+            "element": "medic",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert",
+            "animal": "camel",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Medic in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64112861874.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/12383e28b8d40ee1e925703b26bf1605/12383e28b8d40ee1e925703b26bf1605.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "NeoHealDruid",
+    "symbol": "12383",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/12383e28b8d40ee1e925703b26bf1605/12383e28b8d40ee1e925703b26bf1605.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "GODZ",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/12383e28b8d40ee1e925703b26bf1605/12383e28b8d40ee1e925703b26bf1605.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
