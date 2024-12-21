@@ -1,0 +1,31 @@
+{
+    "id": "00ac010180773683ac7d26a2111ae4ce",
+    "title": "Intergalactic Whiskey Showdown",
+    "description": "alien spaceship firing whiskey ",
+    "created": "2024-12-21 16:19:50.512675",
+    "prompt": {
+        "prompt": "alien spaceship firing whiskey ",
+        "id": "7fa3595cf948a376f0c2372f1b5b7e0d",
+        "prompt_history": [
+            "alien spaceship firing whiskey "
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 16:16:24.845751",
+        "seed_prompt": "alien spaceship firing whiskey ",
+        "metadata": null,
+        "template": null,
+        "title": "Intergalactic Whiskey Showdown"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642426221249.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/00ac010180773683ac7d26a2111ae4ce/00ac010180773683ac7d26a2111ae4ce.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": null,
+    "symbol": "00AC01018",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/00ac010180773683ac7d26a2111ae4ce/00ac010180773683ac7d26a2111ae4ce.jpg"
+}
