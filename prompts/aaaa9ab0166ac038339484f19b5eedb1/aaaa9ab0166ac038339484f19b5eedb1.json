@@ -1,0 +1,40 @@
+{
+    "prompt": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
+    "id": "aaaa9ab0166ac038339484f19b5eedb1",
+    "prompt_history": [
+        "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli"
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": null,
+    "enhanced_prompt": false,
+    "seeded_at": "2024-12-21 02:34:39.679729",
+    "seed_prompt": "Create a landscape full body image of a alien paladin style military in the style of Studio Ghibli",
+    "metadata": {
+        "element": "paladin style military",
+        "style": "Studio Ghibli",
+        "aspect_ratio": "landscape",
+        "backdrop": "forest",
+        "animal": "camel",
+        "modifiers": {
+            "image": "full body",
+            "element": "alien",
+            "backdrop": "futuristic"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": false,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": false
+        },
+        "animal": false,
+        "name": "Standard",
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+    },
+    "title": "Luminous Alien Paladin: A Studio Ghibli Inspired Masterpiece"
+}
