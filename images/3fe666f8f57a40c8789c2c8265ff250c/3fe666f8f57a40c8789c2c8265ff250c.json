@@ -1,0 +1,28 @@
+{
+    "id": "3fe666f8f57a40c8789c2c8265ff250c",
+    "title": "Enchanting Encounter: Megan Fox and the Octopus - Studio Ghibli Style",
+    "description": "Megan Fox being fucked by an octopus in the style of studio Ghibli",
+    "created": "2024-12-21 19:11:16.492010",
+    "prompt": {
+        "prompt": "Megan Fox being fucked by an octopus in the style of studio Ghibli",
+        "id": "25e9436ba08741ea87fc3473115ecdf3",
+        "prompt_history": [
+            "Megan Fox being fucked by an octopus in the style of studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 19:09:57.349674",
+        "seed_prompt": "Megan Fox being fucked by an octopus in the style of studio Ghibli",
+        "metadata": null,
+        "template": null,
+        "title": "Enchanting Encounter: Megan Fox and the Octopus - Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642083678184.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/3fe666f8f57a40c8789c2c8265ff250c/3fe666f8f57a40c8789c2c8265ff250c.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
