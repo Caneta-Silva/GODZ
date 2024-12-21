@@ -1,0 +1,28 @@
+{
+    "id": "5dbda2aa8223b79dc3954acd982a1d3a",
+    "title": "Amadeu at Barra Beach - Studio Ghibli Style",
+    "description": "amadeu from barra beach in the style of studio Ghibli",
+    "created": "2024-12-21 17:44:41.498757",
+    "prompt": {
+        "prompt": "amadeu from barra beach in the style of studio Ghibli",
+        "id": "289003a0dd9c102ae88e003c2d50e7cc",
+        "prompt_history": [
+            "amadeu from barra beach in the style of studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 17:43:12.482625",
+        "seed_prompt": "amadeu from barra beach in the style of studio Ghibli",
+        "metadata": null,
+        "template": null,
+        "title": "Amadeu at Barra Beach - Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64899264229.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/5dbda2aa8223b79dc3954acd982a1d3a/5dbda2aa8223b79dc3954acd982a1d3a.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
