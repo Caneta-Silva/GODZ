@@ -1,0 +1,28 @@
+{
+    "id": "0de09753861604e664c4c4b6b750e374",
+    "title": "Divine Cosmos",
+    "description": "god with the galaxy in is hand",
+    "created": "2024-12-21 18:01:22.723687",
+    "prompt": {
+        "prompt": "god with the galaxy in is hand",
+        "id": "d66d228a284f82a6121094103ae3c966",
+        "prompt_history": [
+            "god with the galaxy in is hand"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 18:00:11.958184",
+        "seed_prompt": "god with the galaxy in is hand",
+        "metadata": null,
+        "template": null,
+        "title": "Divine Cosmos"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64358280104.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/0de09753861604e664c4c4b6b750e374/0de09753861604e664c4c4b6b750e374.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
