@@ -1,0 +1,31 @@
+{
+    "id": "93db2bed1a1fd1f064a2141eae3023a6",
+    "title": "The Weeping Elf Witnessing the Cataclysm",
+    "description": "a very beautiful elf with very big eyes is in the field. She is in a field touching the grass. crying looking to the sky watching a world explode. in the background there are a thousand elfs playing to an entity that is overlooking everything",
+    "created": "2024-12-21 18:07:04.496483",
+    "prompt": {
+        "prompt": "a very beautiful elf with very big eyes is in the field. She is in a field touching the grass. crying looking to the sky watching a world explode. in the background there are a thousand elfs playing to an entity that is overlooking everything",
+        "id": "71332b1bfffaea05125941bb78244bbe",
+        "prompt_history": [
+            "a very beautiful elf with very big eyes is in the field. She is in a field touching the grass. crying looking to the sky watching a world explode. in the background there are a thousand elfs playing to an entity that is overlooking everything"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 18:05:52.248966",
+        "seed_prompt": "a very beautiful elf with very big eyes is in the field. She is in a field touching the grass. crying looking to the sky watching a world explode. in the background there are a thousand elfs playing to an entity that is overlooking everything",
+        "metadata": null,
+        "template": null,
+        "title": "The Weeping Elf Witnessing the Cataclysm"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b6447332869.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/93db2bed1a1fd1f064a2141eae3023a6/93db2bed1a1fd1f064a2141eae3023a6.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Elysia Starwatcher",
+    "symbol": "93DB2BED1",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/93db2bed1a1fd1f064a2141eae3023a6/93db2bed1a1fd1f064a2141eae3023a6.jpg"
+}
