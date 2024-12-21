@@ -1,0 +1,52 @@
+{
+    "id": "d83327e9c553751be4b588472cc019f6",
+    "title": "Alien Police: A Studio Ghibli Inspired Landscape",
+    "description": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
+    "created": "2024-12-21 04:49:45.839766",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
+        "id": "169089d2b6a538afd4ad389026ff82f6",
+        "prompt_history": [
+            "Create a landscape full body image of a alien police in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:34:39.806943",
+        "seed_prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
+        "metadata": {
+            "element": "police",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Alien Police: A Studio Ghibli Inspired Landscape"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642117352089.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/d83327e9c553751be4b588472cc019f6/d83327e9c553751be4b588472cc019f6.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
