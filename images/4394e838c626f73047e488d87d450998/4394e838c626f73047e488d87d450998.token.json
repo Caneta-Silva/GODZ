@@ -1,0 +1,55 @@
+{
+    "id": "4394e838c626f73047e488d87d450998",
+    "title": "Futuristic Alien Tribe Chief in Studio Ghibli Style",
+    "description": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli",
+    "created": "2024-12-21 04:42:23.040543",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli",
+        "id": "871f106fb39bd9e1d5dba876080ccc84",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:34:39.915629",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien tribe chief in the style of Studio Ghibli",
+        "metadata": {
+            "element": "tribe chief",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "tropical forest",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Tribe Chief in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b645372723.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/4394e838c626f73047e488d87d450998/4394e838c626f73047e488d87d450998.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": null,
+    "symbol": "4394E838C",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/4394e838c626f73047e488d87d450998/4394e838c626f73047e488d87d450998.jpg"
+}
