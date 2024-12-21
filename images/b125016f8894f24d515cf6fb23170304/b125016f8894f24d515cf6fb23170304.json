@@ -1,0 +1,28 @@
+{
+    "id": "b125016f8894f24d515cf6fb23170304",
+    "title": "Mystical Encounter: Indian Woman Embraced by Octopus",
+    "description": "Indian woman eing fucked by an octopus",
+    "created": "2024-12-21 19:17:03.868923",
+    "prompt": {
+        "prompt": "Indian woman eing fucked by an octopus",
+        "id": "8208b8c377821450ddd3f1e227f7d000",
+        "prompt_history": [
+            "Indian woman eing fucked by an octopus"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 19:12:37.741718",
+        "seed_prompt": "Indian woman eing fucked by an octopus",
+        "metadata": null,
+        "template": null,
+        "title": "Mystical Encounter: Indian Woman Embraced by Octopus"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641566971151.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/b125016f8894f24d515cf6fb23170304/b125016f8894f24d515cf6fb23170304.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
