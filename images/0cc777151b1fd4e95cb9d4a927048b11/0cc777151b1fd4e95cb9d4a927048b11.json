@@ -1,0 +1,52 @@
+{
+    "id": "0cc777151b1fd4e95cb9d4a927048b11",
+    "title": "The Regal Extraterrestrial Sovereign",
+    "description": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
+    "created": "2024-12-21 09:44:32.493206",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
+        "id": "f6dcb760bfff5e57b32704839a3c4dbb",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:34:39.956325",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
+        "metadata": {
+            "element": "emperor",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "rhino",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "The Regal Extraterrestrial Sovereign"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643317474767.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/0cc777151b1fd4e95cb9d4a927048b11/0cc777151b1fd4e95cb9d4a927048b11.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
