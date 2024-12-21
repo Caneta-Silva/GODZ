@@ -1,0 +1,28 @@
+{
+    "id": "b4df4e4de2a44cbfbc7d9e0b37b79104",
+    "title": "Dobby Enjoying Some Fine Wine in the Wizarding World",
+    "description": "dobby Harry Potter drinking wine",
+    "created": "2024-12-21 18:20:45.340033",
+    "prompt": {
+        "prompt": "dobby Harry Potter drinking wine",
+        "id": "626d0b1dfe09885f5aaee41540364071",
+        "prompt_history": [
+            "dobby Harry Potter drinking wine"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 18:17:06.351701",
+        "seed_prompt": "dobby Harry Potter drinking wine",
+        "metadata": null,
+        "template": null,
+        "title": "Dobby Enjoying Some Fine Wine in the Wizarding World"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643445723530.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/b4df4e4de2a44cbfbc7d9e0b37b79104/b4df4e4de2a44cbfbc7d9e0b37b79104.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
