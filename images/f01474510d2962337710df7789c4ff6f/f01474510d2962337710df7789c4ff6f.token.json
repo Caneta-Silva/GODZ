@@ -1,0 +1,31 @@
+{
+    "id": "f01474510d2962337710df7789c4ff6f",
+    "title": "Rei dos Frangos",
+    "description": "rei dos frangos",
+    "created": "2024-12-21 19:36:29.660913",
+    "prompt": {
+        "prompt": "rei dos frangos",
+        "id": "4df5b397cc58bbf1917cbd6c83dc8929",
+        "prompt_history": [
+            "rei dos frangos"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 19:31:08.354752",
+        "seed_prompt": "rei dos frangos",
+        "metadata": null,
+        "template": null,
+        "title": "Rei dos Frangos"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b6451083688.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/f01474510d2962337710df7789c4ff6f/f01474510d2962337710df7789c4ff6f.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": null,
+    "symbol": "F01474510",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/f01474510d2962337710df7789c4ff6f/f01474510d2962337710df7789c4ff6f.jpg"
+}
