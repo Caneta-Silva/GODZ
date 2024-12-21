@@ -1,0 +1,54 @@
+{
+    "id": "815f5bcf3e3cd32e7790648d6978390d",
+    "title": "Unexpected Kiss: Trump and Elon Musk",
+    "description": "Unexpected Kiss: Trump and Elon Musk",
+    "created": "2024-12-21 18:07:43.055927",
+    "prompt": {
+        "prompt": "Trump kissing elon musk ",
+        "id": "469fdd4c2486823dbdc0cef9dc4eee27",
+        "prompt_history": [
+            "Trump kissing elon musk "
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 18:04:02.858406",
+        "seed_prompt": "Trump kissing elon musk ",
+        "metadata": null,
+        "template": null,
+        "title": "Unexpected Kiss: Trump and Elon Musk"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642042471443.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/815f5bcf3e3cd32e7790648d6978390d/815f5bcf3e3cd32e7790648d6978390d.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "TrumpMeetsElonKiss",
+    "symbol": "815F5",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/815f5bcf3e3cd32e7790648d6978390d/815f5bcf3e3cd32e7790648d6978390d.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "GODZ",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/815f5bcf3e3cd32e7790648d6978390d/815f5bcf3e3cd32e7790648d6978390d.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
