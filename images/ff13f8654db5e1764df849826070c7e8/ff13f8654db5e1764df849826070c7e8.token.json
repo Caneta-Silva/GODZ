@@ -1,0 +1,55 @@
+{
+    "id": "ff13f8654db5e1764df849826070c7e8",
+    "title": "Futuristic Police Officer in Studio Ghibli Style",
+    "description": "Create a landscape full body image of a futuristic police in the style of Studio Ghibli",
+    "created": "2024-12-21 04:41:50.441498",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic police in the style of Studio Ghibli",
+        "id": "bb94aa9279058c7965e22e1cdc5a2921",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic police in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:34:39.633664",
+        "seed_prompt": "Create a landscape full body image of a futuristic police in the style of Studio Ghibli",
+        "metadata": {
+            "element": "police",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "waterfall",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Police Officer in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641287039645.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/ff13f8654db5e1764df849826070c7e8/ff13f8654db5e1764df849826070c7e8.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "CyberSentry",
+    "symbol": "FF13F8654",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/ff13f8654db5e1764df849826070c7e8/ff13f8654db5e1764df849826070c7e8.jpg"
+}
