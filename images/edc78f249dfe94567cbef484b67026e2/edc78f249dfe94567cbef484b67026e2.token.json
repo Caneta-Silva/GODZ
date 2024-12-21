@@ -1,0 +1,31 @@
+{
+    "id": "edc78f249dfe94567cbef484b67026e2",
+    "title": "Amadeu Mozart's Dance of Tomorrow",
+    "description": "amadeu mozart til tomorrow dance",
+    "created": "2024-12-21 19:01:06.721235",
+    "prompt": {
+        "prompt": "amadeu mozart til tomorrow dance",
+        "id": "817873f931ec822b8843140414d63ab5",
+        "prompt_history": [
+            "amadeu mozart til tomorrow dance"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 18:56:46.863273",
+        "seed_prompt": "amadeu mozart til tomorrow dance",
+        "metadata": null,
+        "template": null,
+        "title": "Amadeu Mozart's Dance of Tomorrow"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641869456276.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/edc78f249dfe94567cbef484b67026e2/edc78f249dfe94567cbef484b67026e2.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "AmadeuMozartDance",
+    "symbol": "EDC78F249",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/edc78f249dfe94567cbef484b67026e2/edc78f249dfe94567cbef484b67026e2.jpg"
+}
