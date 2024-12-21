@@ -1,0 +1,31 @@
+{
+    "id": "146466b0b6657776618050cba1777f08",
+    "title": "Magical Confrontation: Nazi UFO over the White House",
+    "description": "nazi ufo above white house in the style of studio Ghibli",
+    "created": "2024-12-21 15:19:35.989205",
+    "prompt": {
+        "prompt": "nazi ufo above white house in the style of studio Ghibli",
+        "id": "3f07a67b4ae2c60d984485bdfcc6b1f4",
+        "prompt_history": [
+            "nazi ufo above white house in the style of studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 15:18:31.070459",
+        "seed_prompt": "nazi ufo above white house in the style of studio Ghibli",
+        "metadata": null,
+        "template": null,
+        "title": "Magical Confrontation: Nazi UFO over the White House"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642113967996.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/146466b0b6657776618050cba1777f08/146466b0b6657776618050cba1777f08.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Skyward Overlook: A Ghibli Tale",
+    "symbol": "146466B0B",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/146466b0b6657776618050cba1777f08/146466b0b6657776618050cba1777f08.jpg"
+}
