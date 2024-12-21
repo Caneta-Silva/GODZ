@@ -1,0 +1,52 @@
+{
+    "id": "e835f8f1a6750a69d21fc08d9927b492",
+    "title": "Futuristic Tribe Chief in Studio Ghibli Style",
+    "description": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
+    "created": "2024-12-21 04:44:13.957743",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
+        "id": "edc9c3e83c81d8cab456b8be93288a9c",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:34:39.590500",
+        "seed_prompt": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
+        "metadata": {
+            "element": "tribe chief",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Tribe Chief in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643138114573.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/e835f8f1a6750a69d21fc08d9927b492/e835f8f1a6750a69d21fc08d9927b492.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
