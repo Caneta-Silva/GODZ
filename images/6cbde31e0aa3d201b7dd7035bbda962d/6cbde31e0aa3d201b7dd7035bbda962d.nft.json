@@ -1,0 +1,54 @@
+{
+    "id": "6cbde31e0aa3d201b7dd7035bbda962d",
+    "title": "Mystical Encounter: Nazi UFO above White House - Studio Ghibli Style",
+    "description": "Mystical Encounter: Nazi UFO above White House - Studio Ghibli Style",
+    "created": "2024-12-21 15:06:49.147449",
+    "prompt": {
+        "prompt": "nazi ufo above white house style of studio Ghibli",
+        "id": "96f747ea855acef89d61304418952242",
+        "prompt_history": [
+            "nazi ufo above white house style of studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 15:05:35.977158",
+        "seed_prompt": "nazi ufo above white house style of studio Ghibli",
+        "metadata": null,
+        "template": null,
+        "title": "Mystical Encounter: Nazi UFO above White House - Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643294930206.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/6cbde31e0aa3d201b7dd7035bbda962d/6cbde31e0aa3d201b7dd7035bbda962d.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": null,
+    "symbol": "6CBDE",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/6cbde31e0aa3d201b7dd7035bbda962d/6cbde31e0aa3d201b7dd7035bbda962d.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "GODZ",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/6cbde31e0aa3d201b7dd7035bbda962d/6cbde31e0aa3d201b7dd7035bbda962d.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
