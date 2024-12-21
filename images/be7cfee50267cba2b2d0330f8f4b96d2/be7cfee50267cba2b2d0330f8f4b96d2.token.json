@@ -1,0 +1,31 @@
+{
+    "id": "be7cfee50267cba2b2d0330f8f4b96d2",
+    "title": "Eternal Duel: Death and Salvation",
+    "description": "half of the image is death looking into your eyes. the other half God crying for your salvation ",
+    "created": "2024-12-21 18:54:30.593621",
+    "prompt": {
+        "prompt": "half of the image is death looking into your eyes. the other half God crying for your salvation ",
+        "id": "f80e85e72519f8d37a2c8f17d9751370",
+        "prompt_history": [
+            "half of the image is death looking into your eyes. the other half God crying for your salvation "
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 18:53:16.883104",
+        "seed_prompt": "half of the image is death looking into your eyes. the other half God crying for your salvation ",
+        "metadata": null,
+        "template": null,
+        "title": "Eternal Duel: Death and Salvation"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641961938484.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/be7cfee50267cba2b2d0330f8f4b96d2/be7cfee50267cba2b2d0330f8f4b96d2.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Eyes of Redemption",
+    "symbol": "BE7CFEE50",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/be7cfee50267cba2b2d0330f8f4b96d2/be7cfee50267cba2b2d0330f8f4b96d2.jpg"
+}
