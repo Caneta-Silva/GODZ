@@ -1,0 +1,31 @@
+{
+    "id": "bae3a36f6cb91068f050c7785d2c7b3f",
+    "title": "Whispers of the Illuminated Forest",
+    "description": "illuminati secret society in the style of studio Ghibli",
+    "created": "2024-12-21 18:13:53.161464",
+    "prompt": {
+        "prompt": "illuminati secret society in the style of studio Ghibli",
+        "id": "badf290166abb0636f0ec2e3a50bf30a",
+        "prompt_history": [
+            "illuminati secret society in the style of studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 18:10:51.074173",
+        "seed_prompt": "illuminati secret society in the style of studio Ghibli",
+        "metadata": null,
+        "template": null,
+        "title": "Whispers of the Illuminated Forest"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64327492755.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/bae3a36f6cb91068f050c7785d2c7b3f/bae3a36f6cb91068f050c7785d2c7b3f.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Mystic Crest of the Whispering Grove",
+    "symbol": "BAE3A36F6",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/bae3a36f6cb91068f050c7785d2c7b3f/bae3a36f6cb91068f050c7785d2c7b3f.jpg"
+}
