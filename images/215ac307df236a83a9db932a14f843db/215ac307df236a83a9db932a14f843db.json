@@ -1,0 +1,28 @@
+{
+    "id": "215ac307df236a83a9db932a14f843db",
+    "title": "Intimate Connection",
+    "description": "two lesbians one dildo",
+    "created": "2024-12-21 18:24:55.357594",
+    "prompt": {
+        "prompt": "two lesbians one dildo",
+        "id": "f52d1d401fb85b9d98de04eeb5730d97",
+        "prompt_history": [
+            "two lesbians one dildo"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 18:23:40.539838",
+        "seed_prompt": "two lesbians one dildo",
+        "metadata": null,
+        "template": null,
+        "title": "Intimate Connection"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643506196586.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/215ac307df236a83a9db932a14f843db/215ac307df236a83a9db932a14f843db.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
