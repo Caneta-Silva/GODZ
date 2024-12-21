@@ -1,0 +1,78 @@
+{
+    "id": "4b82e765e23f9d13438ae47479558ae3",
+    "title": "Futuristic Alien Shaman in Studio Ghibli Style",
+    "description": "Futuristic Alien Shaman in Studio Ghibli Style",
+    "created": "2024-12-21 04:38:28.203985",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli",
+        "id": "a59ac5d0cf84cb56c159b4fb9cdfed49",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:34:39.928074",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien shaman in the style of Studio Ghibli",
+        "metadata": {
+            "element": "shaman",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Shaman in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641797062802.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/4b82e765e23f9d13438ae47479558ae3/4b82e765e23f9d13438ae47479558ae3.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": null,
+    "symbol": "4B82E",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/4b82e765e23f9d13438ae47479558ae3/4b82e765e23f9d13438ae47479558ae3.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "GODZ",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/4b82e765e23f9d13438ae47479558ae3/4b82e765e23f9d13438ae47479558ae3.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
