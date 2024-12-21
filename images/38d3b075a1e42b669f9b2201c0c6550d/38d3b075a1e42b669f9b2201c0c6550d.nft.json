@@ -1,0 +1,54 @@
+{
+    "id": "38d3b075a1e42b669f9b2201c0c6550d",
+    "title": "Futuristic Nazi Paladin",
+    "description": "Futuristic Nazi Paladin",
+    "created": "2024-12-21 02:21:10.813318",
+    "prompt": {
+        "prompt": "a futuristic nazi paladin",
+        "id": "df639828fb28176936790525e298b29c",
+        "prompt_history": [
+            "a futuristic nazi paladin"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:20:12.282700",
+        "seed_prompt": "a futuristic nazi paladin",
+        "metadata": null,
+        "template": null,
+        "title": "Futuristic Nazi Paladin"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641714661149.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/38d3b075a1e42b669f9b2201c0c6550d/38d3b075a1e42b669f9b2201c0c6550d.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": null,
+    "symbol": "38D3B",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/38d3b075a1e42b669f9b2201c0c6550d/38d3b075a1e42b669f9b2201c0c6550d.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "GODZ",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/38d3b075a1e42b669f9b2201c0c6550d/38d3b075a1e42b669f9b2201c0c6550d.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
