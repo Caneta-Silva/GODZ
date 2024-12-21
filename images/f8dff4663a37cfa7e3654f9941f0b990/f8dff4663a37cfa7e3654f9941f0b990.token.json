@@ -1,0 +1,55 @@
+{
+    "id": "f8dff4663a37cfa7e3654f9941f0b990",
+    "title": "Futuristic Alien Tribe Warrior of the Enchanted Forest",
+    "description": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli",
+    "created": "2024-12-21 04:45:05.708677",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli",
+        "id": "c6beb32171ad8dfa9ab5a1104c407e09",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:34:39.900167",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli",
+        "metadata": {
+            "element": "tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "waterfall",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Tribe Warrior of the Enchanted Forest"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641431413440.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/f8dff4663a37cfa7e3654f9941f0b990/f8dff4663a37cfa7e3654f9941f0b990.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Aurora Shadowblade",
+    "symbol": "F8DFF4663",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/f8dff4663a37cfa7e3654f9941f0b990/f8dff4663a37cfa7e3654f9941f0b990.jpg"
+}
