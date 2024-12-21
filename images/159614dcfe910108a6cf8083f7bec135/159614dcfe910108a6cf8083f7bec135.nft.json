@@ -1,0 +1,78 @@
+{
+    "id": "159614dcfe910108a6cf8083f7bec135",
+    "title": "Futuristic Medic in the Style of Studio Ghibli",
+    "description": "Futuristic Medic in the Style of Studio Ghibli",
+    "created": "2024-12-21 04:47:47.568043",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic medic in the style of Studio Ghibli",
+        "id": "8eb05dc635014a74928d8eb585a9c316",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic medic in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:34:39.673482",
+        "seed_prompt": "Create a landscape full body image of a futuristic medic in the style of Studio Ghibli",
+        "metadata": {
+            "element": "medic",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Medic in the Style of Studio Ghibli"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64909516665.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/159614dcfe910108a6cf8083f7bec135/159614dcfe910108a6cf8083f7bec135.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "FuturiMedic Ghibli Style",
+    "symbol": "15961",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/159614dcfe910108a6cf8083f7bec135/159614dcfe910108a6cf8083f7bec135.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "GODZ",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/159614dcfe910108a6cf8083f7bec135/159614dcfe910108a6cf8083f7bec135.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
