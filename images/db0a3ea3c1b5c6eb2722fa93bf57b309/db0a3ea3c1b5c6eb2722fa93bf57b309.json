@@ -1,0 +1,28 @@
+{
+    "id": "db0a3ea3c1b5c6eb2722fa93bf57b309",
+    "title": "Spirited Embrace of Beauty",
+    "description": "naked girl with big tits in the style of studio Ghibli",
+    "created": "2024-12-21 18:24:15.435811",
+    "prompt": {
+        "prompt": "naked girl with big tits in the style of studio Ghibli",
+        "id": "571d88cd2540210284deb8eedf36cc59",
+        "prompt_history": [
+            "naked girl with big tits in the style of studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 18:23:04.237264",
+        "seed_prompt": "naked girl with big tits in the style of studio Ghibli",
+        "metadata": null,
+        "template": null,
+        "title": "Spirited Embrace of Beauty"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641950860229.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/db0a3ea3c1b5c6eb2722fa93bf57b309/db0a3ea3c1b5c6eb2722fa93bf57b309.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
