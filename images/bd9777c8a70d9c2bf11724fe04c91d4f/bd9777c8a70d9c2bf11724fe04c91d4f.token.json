@@ -1,0 +1,55 @@
+{
+    "id": "bd9777c8a70d9c2bf11724fe04c91d4f",
+    "title": "Ghibli-inspired Alien Firefighter in a Mystical Landscape",
+    "description": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
+    "created": "2024-12-21 04:45:46.828432",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
+        "id": "f01b018a0bbd17477764b8b8c6a11baa",
+        "prompt_history": [
+            "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:34:39.820633",
+        "seed_prompt": "Create a landscape full body image of a alien firefighter in the style of Studio Ghibli",
+        "metadata": {
+            "element": "firefighter",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "tropical forest",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Ghibli-inspired Alien Firefighter in a Mystical Landscape"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64914784090.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/bd9777c8a70d9c2bf11724fe04c91d4f/bd9777c8a70d9c2bf11724fe04c91d4f.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Nalu the Galactic Guardian",
+    "symbol": "BD9777C8A",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/bd9777c8a70d9c2bf11724fe04c91d4f/bd9777c8a70d9c2bf11724fe04c91d4f.jpg"
+}
