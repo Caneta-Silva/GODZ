@@ -1,0 +1,40 @@
+{
+    "prompt": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
+    "id": "3b9b15a5af74dcb855d05f7dd8215f5a",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli"
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": null,
+    "enhanced_prompt": false,
+    "seeded_at": "2024-12-21 02:34:39.582743",
+    "seed_prompt": "Create a landscape full body image of a futuristic tribe chief in the style of Studio Ghibli",
+    "metadata": {
+        "element": "tribe chief",
+        "style": "Studio Ghibli",
+        "aspect_ratio": "landscape",
+        "backdrop": "tropical forest",
+        "animal": "horse",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic",
+            "backdrop": "alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": false,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": false
+        },
+        "animal": false,
+        "name": "Standard",
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+    },
+    "title": "Futuristic Tribe Chief of the Enchanted Forest"
+}
