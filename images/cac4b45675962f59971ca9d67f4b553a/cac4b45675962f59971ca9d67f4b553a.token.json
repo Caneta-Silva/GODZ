@@ -1,0 +1,31 @@
+{
+    "id": "cac4b45675962f59971ca9d67f4b553a",
+    "title": "Whimsical Dark Magic: A Studio Ghibli-inspired Satanic Ritual",
+    "description": "satanic ritual in the style of studio Ghibli",
+    "created": "2024-12-21 18:16:11.090319",
+    "prompt": {
+        "prompt": "satanic ritual in the style of studio Ghibli",
+        "id": "543a7f057f211abbb54f26b0f453cceb",
+        "prompt_history": [
+            "satanic ritual in the style of studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 18:11:32.874454",
+        "seed_prompt": "satanic ritual in the style of studio Ghibli",
+        "metadata": null,
+        "template": null,
+        "title": "Whimsical Dark Magic: A Studio Ghibli-inspired Satanic Ritual"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643659047110.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/cac4b45675962f59971ca9d67f4b553a/cac4b45675962f59971ca9d67f4b553a.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Shadow Fae Whisper",
+    "symbol": "CAC4B4567",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/cac4b45675962f59971ca9d67f4b553a/cac4b45675962f59971ca9d67f4b553a.jpg"
+}
