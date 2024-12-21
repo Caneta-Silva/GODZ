@@ -1,0 +1,16 @@
+{
+    "prompt": "the king of frying chicken is so good that there is a line of people to buy it, and a line of chickens getting ready to go to the grill",
+    "id": "b6b50cd9cc57df42101d623149c7fcdc",
+    "prompt_history": [
+        "the king of frying chicken is so good that there is a line of people to buy it, and a line of chickens getting ready to go to the grill"
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": null,
+    "enhanced_prompt": false,
+    "seeded_at": "2024-12-21 19:31:33.163369",
+    "seed_prompt": "the king of frying chicken is so good that there is a line of people to buy it, and a line of chickens getting ready to go to the grill",
+    "metadata": null,
+    "template": null,
+    "title": "The King of Frying Chicken"
+}
