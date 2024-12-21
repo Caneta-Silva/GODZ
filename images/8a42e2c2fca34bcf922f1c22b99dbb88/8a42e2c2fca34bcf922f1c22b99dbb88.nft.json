@@ -1,0 +1,54 @@
+{
+    "id": "8a42e2c2fca34bcf922f1c22b99dbb88",
+    "title": "Gothic Beauty in Hyper-Realistic Splendor",
+    "description": "Gothic Beauty in Hyper-Realistic Splendor",
+    "created": "2024-12-21 19:28:56.033840",
+    "prompt": {
+        "prompt": "a gothic girl, very pretty with big breasts. hyper realistic, 4k",
+        "id": "6b245535c68f5e47f549642414ea929e",
+        "prompt_history": [
+            "a gothic girl, very pretty with big breasts. hyper realistic, 4k"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 19:27:38.085581",
+        "seed_prompt": "a gothic girl, very pretty with big breasts. hyper realistic, 4k",
+        "metadata": null,
+        "template": null,
+        "title": "Gothic Beauty in Hyper-Realistic Splendor"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64999769444.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/8a42e2c2fca34bcf922f1c22b99dbb88/8a42e2c2fca34bcf922f1c22b99dbb88.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": null,
+    "symbol": "8A42E",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/8a42e2c2fca34bcf922f1c22b99dbb88/8a42e2c2fca34bcf922f1c22b99dbb88.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "GODZ",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/8a42e2c2fca34bcf922f1c22b99dbb88/8a42e2c2fca34bcf922f1c22b99dbb88.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}

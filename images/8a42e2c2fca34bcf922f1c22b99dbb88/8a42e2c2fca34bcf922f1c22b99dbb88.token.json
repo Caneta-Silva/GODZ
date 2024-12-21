@@ -1,0 +1,31 @@
+{
+    "id": "8a42e2c2fca34bcf922f1c22b99dbb88",
+    "title": "Gothic Beauty in Hyper-Realistic Splendor",
+    "description": "a gothic girl, very pretty with big breasts. hyper realistic, 4k",
+    "created": "2024-12-21 19:28:56.033840",
+    "prompt": {
+        "prompt": "a gothic girl, very pretty with big breasts. hyper realistic, 4k",
+        "id": "6b245535c68f5e47f549642414ea929e",
+        "prompt_history": [
+            "a gothic girl, very pretty with big breasts. hyper realistic, 4k"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 19:27:38.085581",
+        "seed_prompt": "a gothic girl, very pretty with big breasts. hyper realistic, 4k",
+        "metadata": null,
+        "template": null,
+        "title": "Gothic Beauty in Hyper-Realistic Splendor"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64999769444.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/8a42e2c2fca34bcf922f1c22b99dbb88/8a42e2c2fca34bcf922f1c22b99dbb88.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Raven Nightshade",
+    "symbol": "8A42E2C2F",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/8a42e2c2fca34bcf922f1c22b99dbb88/8a42e2c2fca34bcf922f1c22b99dbb88.jpg"
+}
