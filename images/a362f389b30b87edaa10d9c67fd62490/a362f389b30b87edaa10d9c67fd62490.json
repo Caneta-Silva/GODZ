@@ -1,0 +1,52 @@
+{
+    "id": "a362f389b30b87edaa10d9c67fd62490",
+    "title": "Alien Tribe Warrior of the Ghibli Universe",
+    "description": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
+    "created": "2024-12-21 04:46:59.661302",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
+        "id": "eaf53b4618c399a3076804ee35e2e88c",
+        "prompt_history": [
+            "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:34:39.739073",
+        "seed_prompt": "Create a landscape full body image of a alien tribe warrior in the style of Studio Ghibli",
+        "metadata": {
+            "element": "tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Alien Tribe Warrior of the Ghibli Universe"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64166928795.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/a362f389b30b87edaa10d9c67fd62490/a362f389b30b87edaa10d9c67fd62490.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
