@@ -1,0 +1,55 @@
+{
+    "id": "81cc6ebd1d5f749a065b675ee7ea8cc4",
+    "title": "Emperor of Tomorrow: A Studio Ghibli Inspired Vision",
+    "description": "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli",
+    "created": "2024-12-21 04:44:01.246919",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli",
+        "id": "0704171eba6d559fe9a7f32c927e5827",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:34:39.620088",
+        "seed_prompt": "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli",
+        "metadata": {
+            "element": "emperor",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Emperor of Tomorrow: A Studio Ghibli Inspired Vision"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b644260146494.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/81cc6ebd1d5f749a065b675ee7ea8cc4/81cc6ebd1d5f749a065b675ee7ea8cc4.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Emperor Zenithia",
+    "symbol": "81CC6EBD1",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/81cc6ebd1d5f749a065b675ee7ea8cc4/81cc6ebd1d5f749a065b675ee7ea8cc4.jpg"
+}
