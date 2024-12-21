@@ -1,0 +1,31 @@
+{
+    "id": "85c9c961a511addea49132b7566911a9",
+    "title": "Divine Entity: Keeper of the Cosmos",
+    "description": "god with the galaxy in is hand in the style of arcane riot series",
+    "created": "2024-12-21 18:03:31.303248",
+    "prompt": {
+        "prompt": "god with the galaxy in is hand in the style of arcane riot series",
+        "id": "013e6e29d25ced9201ebe6dbbb29528f",
+        "prompt_history": [
+            "god with the galaxy in is hand in the style of arcane riot series"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 18:02:21.787750",
+        "seed_prompt": "god with the galaxy in is hand in the style of arcane riot series",
+        "metadata": null,
+        "template": null,
+        "title": "Divine Entity: Keeper of the Cosmos"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641813980263.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/85c9c961a511addea49132b7566911a9/85c9c961a511addea49132b7566911a9.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Galaxy's Ascendancy",
+    "symbol": "85C9C961A",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/85c9c961a511addea49132b7566911a9/85c9c961a511addea49132b7566911a9.jpg"
+}
