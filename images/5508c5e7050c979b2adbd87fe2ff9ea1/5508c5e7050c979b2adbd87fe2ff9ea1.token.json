@@ -1,0 +1,31 @@
+{
+    "id": "5508c5e7050c979b2adbd87fe2ff9ea1",
+    "title": "Dark Ritual: Summoning Evil Forces",
+    "description": "satanic ritual",
+    "created": "2024-12-21 18:10:42.830952",
+    "prompt": {
+        "prompt": "satanic ritual",
+        "id": "a535d630eca59c0223940e6dba889eea",
+        "prompt_history": [
+            "satanic ritual"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 18:09:27.767740",
+        "seed_prompt": "satanic ritual",
+        "metadata": null,
+        "template": null,
+        "title": "Dark Ritual: Summoning Evil Forces"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641450967613.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/5508c5e7050c979b2adbd87fe2ff9ea1/5508c5e7050c979b2adbd87fe2ff9ea1.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Infernal Summoning",
+    "symbol": "5508C5E70",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/5508c5e7050c979b2adbd87fe2ff9ea1/5508c5e7050c979b2adbd87fe2ff9ea1.jpg"
+}
