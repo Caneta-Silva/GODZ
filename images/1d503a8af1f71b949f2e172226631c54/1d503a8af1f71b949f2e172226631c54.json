@@ -1,0 +1,28 @@
+{
+    "id": "1d503a8af1f71b949f2e172226631c54",
+    "title": "The Miracle of the Black Flower",
+    "description": "from a crack in the ground it is growing a black flower. there are multiple gnomes around it spiting on it so it can gain colors. in the background there are multiple gnomes and elfs praying to an entity overlooking to everyone from space ",
+    "created": "2024-12-21 17:49:38.133725",
+    "prompt": {
+        "prompt": "from a crack in the ground it is growing a black flower. there are multiple gnomes around it spiting on it so it can gain colors. in the background there are multiple gnomes and elfs praying to an entity overlooking to everyone from space ",
+        "id": "a62521ff9c29dc67b8f9c5e257417099",
+        "prompt_history": [
+            "from a crack in the ground it is growing a black flower. there are multiple gnomes around it spiting on it so it can gain colors. in the background there are multiple gnomes and elfs praying to an entity overlooking to everyone from space "
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 17:48:29.088377",
+        "seed_prompt": "from a crack in the ground it is growing a black flower. there are multiple gnomes around it spiting on it so it can gain colors. in the background there are multiple gnomes and elfs praying to an entity overlooking to everyone from space ",
+        "metadata": null,
+        "template": null,
+        "title": "The Miracle of the Black Flower"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64642783850.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/1d503a8af1f71b949f2e172226631c54/1d503a8af1f71b949f2e172226631c54.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
