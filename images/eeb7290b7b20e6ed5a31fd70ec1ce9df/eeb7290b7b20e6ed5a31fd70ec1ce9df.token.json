@@ -1,0 +1,55 @@
+{
+    "id": "eeb7290b7b20e6ed5a31fd70ec1ce9df",
+    "title": "Galactic Emperor in the Style of Studio Ghibli",
+    "description": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
+    "created": "2024-12-21 04:41:47.088420",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
+        "id": "9ce31e95250634f8a524dadbc96a7a79",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:34:39.955334",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien emperor in the style of Studio Ghibli",
+        "metadata": {
+            "element": "emperor",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "deer",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Galactic Emperor in the Style of Studio Ghibli"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642775503665.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/eeb7290b7b20e6ed5a31fd70ec1ce9df/eeb7290b7b20e6ed5a31fd70ec1ce9df.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Zaraxim, the Celestial Sovereign",
+    "symbol": "EEB7290B7",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/eeb7290b7b20e6ed5a31fd70ec1ce9df/eeb7290b7b20e6ed5a31fd70ec1ce9df.jpg"
+}
