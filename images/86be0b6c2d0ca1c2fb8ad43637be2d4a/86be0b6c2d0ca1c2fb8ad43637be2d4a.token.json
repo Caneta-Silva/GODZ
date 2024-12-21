@@ -1,0 +1,31 @@
+{
+    "id": "86be0b6c2d0ca1c2fb8ad43637be2d4a",
+    "title": "Divine Guardian: The Almighty Tree of God",
+    "description": "Almighty tree of God in a apocalyptic world",
+    "created": "2024-12-21 17:45:20.361709",
+    "prompt": {
+        "prompt": "Almighty tree of God in a apocalyptic world",
+        "id": "230c85aaa79d46d103702494d3750421",
+        "prompt_history": [
+            "Almighty tree of God in a apocalyptic world"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 17:44:11.482395",
+        "seed_prompt": "Almighty tree of God in a apocalyptic world",
+        "metadata": null,
+        "template": null,
+        "title": "Divine Guardian: The Almighty Tree of God"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641281332612.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/86be0b6c2d0ca1c2fb8ad43637be2d4a/86be0b6c2d0ca1c2fb8ad43637be2d4a.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "DivineArborealApocalypse",
+    "symbol": "86BE0B6C2",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/86be0b6c2d0ca1c2fb8ad43637be2d4a/86be0b6c2d0ca1c2fb8ad43637be2d4a.jpg"
+}
