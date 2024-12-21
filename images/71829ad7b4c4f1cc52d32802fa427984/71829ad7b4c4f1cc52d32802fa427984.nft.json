@@ -1,0 +1,54 @@
+{
+    "id": "71829ad7b4c4f1cc52d32802fa427984",
+    "title": "Futuristic Storm Trooper: Studio Ghibli Style",
+    "description": "Futuristic Storm Trooper: Studio Ghibli Style",
+    "created": "2024-12-21 02:21:38.419532",
+    "prompt": {
+        "prompt": "a futuristic storm trooper in the style of studio Ghibli",
+        "id": "5d67986925f22165e2323f5f0877650c",
+        "prompt_history": [
+            "a futuristic storm trooper in the style of studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:20:39.438742",
+        "seed_prompt": "a futuristic storm trooper in the style of studio Ghibli",
+        "metadata": null,
+        "template": null,
+        "title": "Futuristic Storm Trooper: Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64218755083.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/71829ad7b4c4f1cc52d32802fa427984/71829ad7b4c4f1cc52d32802fa427984.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": null,
+    "symbol": "71829",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/71829ad7b4c4f1cc52d32802fa427984/71829ad7b4c4f1cc52d32802fa427984.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "GODZ",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/71829ad7b4c4f1cc52d32802fa427984/71829ad7b4c4f1cc52d32802fa427984.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
