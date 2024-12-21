@@ -1,0 +1,31 @@
+{
+    "id": "57f52d288b22b523e37338e46a4faf33",
+    "title": "Epic Battle: Army of Squirrels vs UFO",
+    "description": "army of squirrels vs ufo",
+    "created": "2024-12-21 17:36:54.129938",
+    "prompt": {
+        "prompt": "army of squirrels vs ufo",
+        "id": "0dae6ecec6de199b1e4dde56b22f1672",
+        "prompt_history": [
+            "army of squirrels vs ufo"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 17:35:44.071317",
+        "seed_prompt": "army of squirrels vs ufo",
+        "metadata": null,
+        "template": null,
+        "title": "Epic Battle: Army of Squirrels vs UFO"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642143315011.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/57f52d288b22b523e37338e46a4faf33/57f52d288b22b523e37338e46a4faf33.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Squirrel Commander",
+    "symbol": "57F52D288",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/57f52d288b22b523e37338e46a4faf33/57f52d288b22b523e37338e46a4faf33.jpg"
+}
