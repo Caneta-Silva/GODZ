@@ -1,0 +1,28 @@
+{
+    "id": "bbb61245028c65158dff4d45302815e4",
+    "title": "Dreamscape Encounter: Enchanted Moments in a Field of Contrasts",
+    "description": "a crawling crackhead in a dark field has a blue fairy in front of him blowing white powder to his face and his conscience his being blown back to the background to a field full of color in the style of studio Ghibli",
+    "created": "2024-12-21 17:39:49.510503",
+    "prompt": {
+        "prompt": "a crawling crackhead in a dark field has a blue fairy in front of him blowing white powder to his face and his conscience his being blown back to the background to a field full of color in the style of studio Ghibli",
+        "id": "b80d192f804ca06bf637db1810eb2239",
+        "prompt_history": [
+            "a crawling crackhead in a dark field has a blue fairy in front of him blowing white powder to his face and his conscience his being blown back to the background to a field full of color in the style of studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 17:38:41.805802",
+        "seed_prompt": "a crawling crackhead in a dark field has a blue fairy in front of him blowing white powder to his face and his conscience his being blown back to the background to a field full of color in the style of studio Ghibli",
+        "metadata": null,
+        "template": null,
+        "title": "Dreamscape Encounter: Enchanted Moments in a Field of Contrasts"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643801545937.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/bbb61245028c65158dff4d45302815e4/bbb61245028c65158dff4d45302815e4.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
