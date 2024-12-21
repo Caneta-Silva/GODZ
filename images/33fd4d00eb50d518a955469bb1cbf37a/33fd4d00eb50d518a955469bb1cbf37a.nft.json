@@ -1,0 +1,54 @@
+{
+    "id": "33fd4d00eb50d518a955469bb1cbf37a",
+    "title": "Sizzling Moment: Megan Fox and Emma Stone Sharing a Steamy Kiss",
+    "description": "Sizzling Moment: Megan Fox and Emma Stone Sharing a Steamy Kiss",
+    "created": "2024-12-21 18:49:19.552239",
+    "prompt": {
+        "prompt": "Megan Fox kissing Emma stone",
+        "id": "f774bf4e2fa0608fb8b850a9f6071e0d",
+        "prompt_history": [
+            "Megan Fox kissing Emma stone"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 18:48:04.961686",
+        "seed_prompt": "Megan Fox kissing Emma stone",
+        "metadata": null,
+        "template": null,
+        "title": "Sizzling Moment: Megan Fox and Emma Stone Sharing a Steamy Kiss"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642267847638.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/33fd4d00eb50d518a955469bb1cbf37a/33fd4d00eb50d518a955469bb1cbf37a.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": null,
+    "symbol": "33FD4",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/33fd4d00eb50d518a955469bb1cbf37a/33fd4d00eb50d518a955469bb1cbf37a.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "GODZ",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/33fd4d00eb50d518a955469bb1cbf37a/33fd4d00eb50d518a955469bb1cbf37a.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
