@@ -1,0 +1,28 @@
+{
+    "id": "79c03d34ed5462d51d8312ad139bb527",
+    "title": "Colorful Beachscape with Dom Franguito",
+    "description": "dom franguito",
+    "created": "2024-12-21 19:30:24.275873",
+    "prompt": {
+        "prompt": "dom franguito",
+        "id": "904c22a88dae471a90f36bddef947538",
+        "prompt_history": [
+            "dom franguito"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 19:28:45.864834",
+        "seed_prompt": "dom franguito",
+        "metadata": null,
+        "template": null,
+        "title": "Colorful Beachscape with Dom Franguito"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642912812051.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/79c03d34ed5462d51d8312ad139bb527/79c03d34ed5462d51d8312ad139bb527.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
