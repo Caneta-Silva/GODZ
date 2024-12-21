@@ -1,0 +1,31 @@
+{
+    "id": "a3efb2b04c74b97d58cc8d932d23b9bb",
+    "title": "Hermetic Frequency",
+    "description": "hermetic frequency of the egyptians meeting the family of god encompassing the entire oneness of the universe",
+    "created": "2024-12-21 17:41:20.371913",
+    "prompt": {
+        "prompt": "hermetic frequency of the egyptians meeting the family of god encompassing the entire oneness of the universe",
+        "id": "10027477d842c3f2f7844bbff192a150",
+        "prompt_history": [
+            "hermetic frequency of the egyptians meeting the family of god encompassing the entire oneness of the universe"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 17:40:10.609200",
+        "seed_prompt": "hermetic frequency of the egyptians meeting the family of god encompassing the entire oneness of the universe",
+        "metadata": null,
+        "template": null,
+        "title": "Hermetic Frequency"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641267590815.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/a3efb2b04c74b97d58cc8d932d23b9bb/a3efb2b04c74b97d58cc8d932d23b9bb.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "HermeticGodUnity",
+    "symbol": "A3EFB2B04",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/a3efb2b04c74b97d58cc8d932d23b9bb/a3efb2b04c74b97d58cc8d932d23b9bb.jpg"
+}
