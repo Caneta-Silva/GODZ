@@ -1,0 +1,31 @@
+{
+    "id": "ee787e21b62b73840d4b7761cc72e19b",
+    "title": "Reptilian Encounter: The Project Blue Beam Conspiracy",
+    "description": "reptillian on a ufo swarm project blue beam",
+    "created": "2024-12-21 16:21:53.195771",
+    "prompt": {
+        "prompt": "reptillian on a ufo swarm project blue beam",
+        "id": "8851362837f7f1e0ebc4390108a99878",
+        "prompt_history": [
+            "reptillian on a ufo swarm project blue beam"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 16:20:47.304873",
+        "seed_prompt": "reptillian on a ufo swarm project blue beam",
+        "metadata": null,
+        "template": null,
+        "title": "Reptilian Encounter: The Project Blue Beam Conspiracy"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b6428256510.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/ee787e21b62b73840d4b7761cc72e19b/ee787e21b62b73840d4b7761cc72e19b.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Seraphisite",
+    "symbol": "EE787E21B",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/ee787e21b62b73840d4b7761cc72e19b/ee787e21b62b73840d4b7761cc72e19b.jpg"
+}
