@@ -1,0 +1,52 @@
+{
+    "id": "77d7fdc0db0f70c494d73bb71f06d40a",
+    "title": "Majestic Alien Emperor in the Style of Studio Ghibli",
+    "description": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
+    "created": "2024-12-21 09:45:31.326601",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
+        "id": "2777544b1362a3e7f263fdb7f9d8939a",
+        "prompt_history": [
+            "Create a landscape full body image of a alien emperor in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:34:39.790421",
+        "seed_prompt": "Create a landscape full body image of a alien emperor in the style of Studio Ghibli",
+        "metadata": {
+            "element": "emperor",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Majestic Alien Emperor in the Style of Studio Ghibli"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64480309716.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/77d7fdc0db0f70c494d73bb71f06d40a/77d7fdc0db0f70c494d73bb71f06d40a.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
