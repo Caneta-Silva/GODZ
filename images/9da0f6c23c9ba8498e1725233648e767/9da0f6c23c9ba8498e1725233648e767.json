@@ -1,0 +1,52 @@
+{
+    "id": "9da0f6c23c9ba8498e1725233648e767",
+    "title": "Futuristic Alien Police Officer in Studio Ghibli Style Landscape",
+    "description": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
+    "created": "2024-12-21 02:02:22.124414",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
+        "id": "1743da5f8fd0582f4620c1d9971496fe",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 01:33:03.347993",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
+        "metadata": {
+            "element": "police",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "Martial landscape",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Police Officer in Studio Ghibli Style Landscape"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643518242377.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/9da0f6c23c9ba8498e1725233648e767/9da0f6c23c9ba8498e1725233648e767.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
