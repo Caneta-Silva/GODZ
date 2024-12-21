@@ -1,0 +1,28 @@
+{
+    "id": "d937a79d94d961a658415a6966f71554",
+    "title": "Battle of the Titans",
+    "description": "nazi robot fighting Godzilla",
+    "created": "2024-12-21 14:55:43.791190",
+    "prompt": {
+        "prompt": "nazi robot fighting Godzilla",
+        "id": "9f0555b87dcc807c051a90e7dcd5ca27",
+        "prompt_history": [
+            "nazi robot fighting Godzilla"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 14:52:41.989868",
+        "seed_prompt": "nazi robot fighting Godzilla",
+        "metadata": null,
+        "template": null,
+        "title": "Battle of the Titans"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641008030870.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/d937a79d94d961a658415a6966f71554/d937a79d94d961a658415a6966f71554.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
