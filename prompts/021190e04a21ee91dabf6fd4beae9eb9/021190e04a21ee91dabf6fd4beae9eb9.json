@@ -1,0 +1,40 @@
+{
+    "prompt": "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli",
+    "id": "021190e04a21ee91dabf6fd4beae9eb9",
+    "prompt_history": [
+        "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli"
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": null,
+    "enhanced_prompt": false,
+    "seeded_at": "2024-12-21 02:34:39.719825",
+    "seed_prompt": "Create a landscape full body image of a alien desert tribe warrior in the style of Studio Ghibli",
+    "metadata": {
+        "element": "desert tribe warrior",
+        "style": "Studio Ghibli",
+        "aspect_ratio": "landscape",
+        "backdrop": "waterfall",
+        "animal": "elephant",
+        "modifiers": {
+            "image": "full body",
+            "element": "alien",
+            "backdrop": "futuristic"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": false,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": false
+        },
+        "animal": false,
+        "name": "Standard",
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+    },
+    "title": "Sand Tribe Sentinel"
+}
