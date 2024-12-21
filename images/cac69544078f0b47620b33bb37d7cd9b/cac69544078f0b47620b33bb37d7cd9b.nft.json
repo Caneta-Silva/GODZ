@@ -1,0 +1,54 @@
+{
+    "id": "cac69544078f0b47620b33bb37d7cd9b",
+    "title": "Celebrities Megan Fox and Claudia Vieira sharing a romantic moment",
+    "description": "Celebrities Megan Fox and Claudia Vieira sharing a romantic moment",
+    "created": "2024-12-21 18:53:46.540966",
+    "prompt": {
+        "prompt": "Megan Fox kissing Claudia Vieira",
+        "id": "492f348e91176c709c54b2663c63a432",
+        "prompt_history": [
+            "Megan Fox kissing Claudia Vieira"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 18:50:07.442339",
+        "seed_prompt": "Megan Fox kissing Claudia Vieira",
+        "metadata": null,
+        "template": null,
+        "title": "Celebrities Megan Fox and Claudia Vieira sharing a romantic moment"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643811138664.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/cac69544078f0b47620b33bb37d7cd9b/cac69544078f0b47620b33bb37d7cd9b.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": null,
+    "symbol": "CAC69",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/cac69544078f0b47620b33bb37d7cd9b/cac69544078f0b47620b33bb37d7cd9b.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "GODZ",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/cac69544078f0b47620b33bb37d7cd9b/cac69544078f0b47620b33bb37d7cd9b.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
