@@ -1,0 +1,78 @@
+{
+    "id": "17db8f6c4d05dd12e88a47c5294f52c7",
+    "title": "Ruler of the Grand Forest: The Alien Tribe Chief",
+    "description": "Ruler of the Grand Forest: The Alien Tribe Chief",
+    "created": "2024-12-21 09:46:46.033295",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli",
+        "id": "5eb67314daf5a3bfcdabca8d96e1b078",
+        "prompt_history": [
+            "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:34:39.752032",
+        "seed_prompt": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli",
+        "metadata": {
+            "element": "tribe chief",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "tropical forest",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Ruler of the Grand Forest: The Alien Tribe Chief"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64698449363.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/17db8f6c4d05dd12e88a47c5294f52c7/17db8f6c4d05dd12e88a47c5294f52c7.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "GhibliAlienChief",
+    "symbol": "17DB8",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/17db8f6c4d05dd12e88a47c5294f52c7/17db8f6c4d05dd12e88a47c5294f52c7.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "GODZ",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/17db8f6c4d05dd12e88a47c5294f52c7/17db8f6c4d05dd12e88a47c5294f52c7.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
