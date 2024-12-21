@@ -1,0 +1,78 @@
+{
+    "id": "7afcda1ba35a55c34a38dedf92c6d906",
+    "title": "Futuristic Alien Riot Police Robot",
+    "description": "Futuristic Alien Riot Police Robot",
+    "created": "2024-12-21 04:44:34.291963",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli",
+        "id": "e9d07c26e9ee9aebe97c9a7580ea5444",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:34:39.860396",
+        "seed_prompt": "Create a landscape full body image of a futuristic alien riot police robot in the style of Studio Ghibli",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "tropical forest",
+            "animal": "elephant",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Alien Riot Police Robot"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641482630920.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/7afcda1ba35a55c34a38dedf92c6d906/7afcda1ba35a55c34a38dedf92c6d906.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": null,
+    "symbol": "7AFCD",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/7afcda1ba35a55c34a38dedf92c6d906/7afcda1ba35a55c34a38dedf92c6d906.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "GODZ",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/7afcda1ba35a55c34a38dedf92c6d906/7afcda1ba35a55c34a38dedf92c6d906.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
