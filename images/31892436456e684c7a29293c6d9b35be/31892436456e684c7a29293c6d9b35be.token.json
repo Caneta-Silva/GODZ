@@ -1,0 +1,31 @@
+{
+    "id": "31892436456e684c7a29293c6d9b35be",
+    "title": "Exquisite Beauty in 4K",
+    "description": "EU le quero dar em 4k",
+    "created": "2024-12-21 19:09:21.434575",
+    "prompt": {
+        "prompt": "EU le quero dar em 4k",
+        "id": "76ccc6fb5aee3ac1a901ef2a5f6bab11",
+        "prompt_history": [
+            "EU le quero dar em 4k"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 19:08:06.849379",
+        "seed_prompt": "EU le quero dar em 4k",
+        "metadata": null,
+        "template": null,
+        "title": "Exquisite Beauty in 4K"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b641591247879.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/31892436456e684c7a29293c6d9b35be/31892436456e684c7a29293c6d9b35be.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Euro4KGiveaway",
+    "symbol": "318924364",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/31892436456e684c7a29293c6d9b35be/31892436456e684c7a29293c6d9b35be.jpg"
+}
