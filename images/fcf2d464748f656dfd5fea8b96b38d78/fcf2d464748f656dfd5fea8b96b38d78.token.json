@@ -1,0 +1,31 @@
+{
+    "id": "fcf2d464748f656dfd5fea8b96b38d78",
+    "title": "The Battle of the Squirrel Brigade: A Studio Ghibli Inspired Tale",
+    "description": "army of squirrels vs ufo in the style of studio Ghibli",
+    "created": "2024-12-21 17:42:03.403250",
+    "prompt": {
+        "prompt": "army of squirrels vs ufo in the style of studio Ghibli",
+        "id": "f5b13a757d0a7f131a2220df49cd9b36",
+        "prompt_history": [
+            "army of squirrels vs ufo in the style of studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 17:38:08.894344",
+        "seed_prompt": "army of squirrels vs ufo in the style of studio Ghibli",
+        "metadata": null,
+        "template": null,
+        "title": "The Battle of the Squirrel Brigade: A Studio Ghibli Inspired Tale"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642907522555.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/fcf2d464748f656dfd5fea8b96b38d78/fcf2d464748f656dfd5fea8b96b38d78.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": null,
+    "symbol": "FCF2D4647",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/fcf2d464748f656dfd5fea8b96b38d78/fcf2d464748f656dfd5fea8b96b38d78.jpg"
+}
