@@ -1,0 +1,52 @@
+{
+    "id": "7cbc89c52294f1f49970169fcbe536b7",
+    "title": "Alien Police Patrol - Studio Ghibli Style",
+    "description": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
+    "created": "2024-12-21 04:51:14.181078",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
+        "id": "1414e2460209ea51ebf2580bd8d37eab",
+        "prompt_history": [
+            "Create a landscape full body image of a alien police in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:34:39.801852",
+        "seed_prompt": "Create a landscape full body image of a alien police in the style of Studio Ghibli",
+        "metadata": {
+            "element": "police",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Alien Police Patrol - Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643183167769.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/7cbc89c52294f1f49970169fcbe536b7/7cbc89c52294f1f49970169fcbe536b7.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
