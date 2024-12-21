@@ -1,0 +1,54 @@
+{
+    "id": "b327e7011a5bcc4783ad07d6b0b97e33",
+    "title": "Hermes Trismegistus: A Studio Ghibli Interpretation",
+    "description": "Hermes Trismegistus: A Studio Ghibli Interpretation",
+    "created": "2024-12-21 17:40:17.770981",
+    "prompt": {
+        "prompt": "hermes trismegistus in the style of studio Ghibli",
+        "id": "b06aca4f7c7cefa93d9cc297ee4ecb7f",
+        "prompt_history": [
+            "hermes trismegistus in the style of studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 17:36:31.214975",
+        "seed_prompt": "hermes trismegistus in the style of studio Ghibli",
+        "metadata": null,
+        "template": null,
+        "title": "Hermes Trismegistus: A Studio Ghibli Interpretation"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642618683811.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/b327e7011a5bcc4783ad07d6b0b97e33/b327e7011a5bcc4783ad07d6b0b97e33.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": null,
+    "symbol": "B327E",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/b327e7011a5bcc4783ad07d6b0b97e33/b327e7011a5bcc4783ad07d6b0b97e33.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "GODZ",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/b327e7011a5bcc4783ad07d6b0b97e33/b327e7011a5bcc4783ad07d6b0b97e33.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
