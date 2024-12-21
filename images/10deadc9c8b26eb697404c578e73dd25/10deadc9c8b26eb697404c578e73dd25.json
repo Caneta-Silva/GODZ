@@ -1,0 +1,28 @@
+{
+    "id": "10deadc9c8b26eb697404c578e73dd25",
+    "title": "Secrets of Nazi UFOs in Antarctica",
+    "description": "nazi UFOs in antartica",
+    "created": "2024-12-21 15:08:54.545461",
+    "prompt": {
+        "prompt": "nazi UFOs in antartica",
+        "id": "850c5c37a502fbec26a1c3affebf9bfc",
+        "prompt_history": [
+            "nazi UFOs in antartica"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 15:05:40.040488",
+        "seed_prompt": "nazi UFOs in antartica",
+        "metadata": null,
+        "template": null,
+        "title": "Secrets of Nazi UFOs in Antarctica"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642269407557.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/10deadc9c8b26eb697404c578e73dd25/10deadc9c8b26eb697404c578e73dd25.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
