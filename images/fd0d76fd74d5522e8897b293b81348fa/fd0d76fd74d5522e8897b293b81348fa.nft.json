@@ -1,0 +1,78 @@
+{
+    "id": "fd0d76fd74d5522e8897b293b81348fa",
+    "title": "The Enforcer: A Futuristic Riot Police Robot in Studio Ghibli Style",
+    "description": "The Enforcer: A Futuristic Riot Police Robot in Studio Ghibli Style",
+    "created": "2024-12-21 09:46:18.873627",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
+        "id": "ee525ce8af639c2d1c39fcca05a2c5d9",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:34:39.544170",
+        "seed_prompt": "Create a landscape full body image of a futuristic riot police robot in the style of Studio Ghibli",
+        "metadata": {
+            "element": "riot police robot",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "rhino",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "The Enforcer: A Futuristic Riot Police Robot in Studio Ghibli Style"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642330518481.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/fd0d76fd74d5522e8897b293b81348fa/fd0d76fd74d5522e8897b293b81348fa.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "GhibliGuardian",
+    "symbol": "FD0D7",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/fd0d76fd74d5522e8897b293b81348fa/fd0d76fd74d5522e8897b293b81348fa.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "GODZ",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/fd0d76fd74d5522e8897b293b81348fa/fd0d76fd74d5522e8897b293b81348fa.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
