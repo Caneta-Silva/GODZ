@@ -1,0 +1,28 @@
+{
+    "id": "5d203a53ea5ddb21effda5d44bfe4cf7",
+    "title": "The Battle of Titans: A Studio Ghibli-Inspired Clash",
+    "description": "a futuristic nazi robot fighting Godzilla in the style of studio Ghibli",
+    "created": "2024-12-21 02:19:57.185266",
+    "prompt": {
+        "prompt": "a futuristic nazi robot fighting Godzilla in the style of studio Ghibli",
+        "id": "29b70e7517cd0615d9bdc78a9adeb5c2",
+        "prompt_history": [
+            "a futuristic nazi robot fighting Godzilla in the style of studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:19:00.922526",
+        "seed_prompt": "a futuristic nazi robot fighting Godzilla in the style of studio Ghibli",
+        "metadata": null,
+        "template": null,
+        "title": "The Battle of Titans: A Studio Ghibli-Inspired Clash"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642830753246.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/5d203a53ea5ddb21effda5d44bfe4cf7/5d203a53ea5ddb21effda5d44bfe4cf7.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
