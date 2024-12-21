@@ -1,0 +1,55 @@
+{
+    "id": "3705697e545588918d6ec19d512361f7",
+    "title": "The Alien Tribe Chief - A Studio Ghibli Inspired Masterpiece",
+    "description": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli",
+    "created": "2024-12-21 04:37:41.158497",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli",
+        "id": "a1e5342993800b34126226afe25daedd",
+        "prompt_history": [
+            "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:34:39.753825",
+        "seed_prompt": "Create a landscape full body image of a alien tribe chief in the style of Studio Ghibli",
+        "metadata": {
+            "element": "tribe chief",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "spaceship",
+            "animal": "gnu",
+            "modifiers": {
+                "image": "full body",
+                "element": "alien",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "The Alien Tribe Chief - A Studio Ghibli Inspired Masterpiece"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642329664675.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/3705697e545588918d6ec19d512361f7/3705697e545588918d6ec19d512361f7.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Narumi, Chief of the Celestial Tribe",
+    "symbol": "3705697E5",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/3705697e545588918d6ec19d512361f7/3705697e545588918d6ec19d512361f7.jpg"
+}
