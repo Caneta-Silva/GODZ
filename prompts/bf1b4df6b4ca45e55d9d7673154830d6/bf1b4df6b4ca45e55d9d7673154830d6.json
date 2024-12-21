@@ -1,0 +1,40 @@
+{
+    "prompt": "Create a landscape full body image of a futuristic police in the style of Studio Ghibli",
+    "id": "bf1b4df6b4ca45e55d9d7673154830d6",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic police in the style of Studio Ghibli"
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": null,
+    "enhanced_prompt": false,
+    "seeded_at": "2024-12-21 02:34:39.630654",
+    "seed_prompt": "Create a landscape full body image of a futuristic police in the style of Studio Ghibli",
+    "metadata": {
+        "element": "police",
+        "style": "Studio Ghibli",
+        "aspect_ratio": "landscape",
+        "backdrop": "spaceship",
+        "animal": "rhino",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic",
+            "backdrop": "futuristic"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": false,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": false
+        },
+        "animal": false,
+        "name": "Standard",
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+    },
+    "title": "Futuristic Police in Studio Ghibli Style"
+}
