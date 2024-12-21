@@ -1,0 +1,54 @@
+{
+    "id": "4434bbbd1aadbb3a6cf4377a8f7f87f5",
+    "title": "Passionate Encounter: Hyper Realistic Depiction of Sensual Love",
+    "description": "Passionate Encounter: Hyper Realistic Depiction of Sensual Love",
+    "created": "2024-12-21 19:31:05.987809",
+    "prompt": {
+        "prompt": "two lesbians having intercourse, sexy, erotic, hyper realistic",
+        "id": "1e8500539e33c9993e59f6017e2355be",
+        "prompt_history": [
+            "two lesbians having intercourse, sexy, erotic, hyper realistic"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 19:29:48.203545",
+        "seed_prompt": "two lesbians having intercourse, sexy, erotic, hyper realistic",
+        "metadata": null,
+        "template": null,
+        "title": "Passionate Encounter: Hyper Realistic Depiction of Sensual Love"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642589837340.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/4434bbbd1aadbb3a6cf4377a8f7f87f5/4434bbbd1aadbb3a6cf4377a8f7f87f5.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": null,
+    "symbol": "4434B",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/4434bbbd1aadbb3a6cf4377a8f7f87f5/4434bbbd1aadbb3a6cf4377a8f7f87f5.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "GODZ",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/4434bbbd1aadbb3a6cf4377a8f7f87f5/4434bbbd1aadbb3a6cf4377a8f7f87f5.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
