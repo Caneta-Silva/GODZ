@@ -1,0 +1,54 @@
+{
+    "id": "88ff69da82a8d61a4d6c8327a724f373",
+    "title": "Hustling Around the Clock: An Indian Uber Driver's Unwinding Moment",
+    "description": "Hustling Around the Clock: An Indian Uber Driver's Unwinding Moment",
+    "created": "2024-12-21 18:29:49.846652",
+    "prompt": {
+        "prompt": "Indian guy worked 24h in Uber drive, smoke weed and drink a wine",
+        "id": "05d1962156d2d2eb3f780672ec3408cb",
+        "prompt_history": [
+            "Indian guy worked 24h in Uber drive, smoke weed and drink a wine"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 18:28:35.869547",
+        "seed_prompt": "Indian guy worked 24h in Uber drive, smoke weed and drink a wine",
+        "metadata": null,
+        "template": null,
+        "title": "Hustling Around the Clock: An Indian Uber Driver's Unwinding Moment"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64728115609.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/88ff69da82a8d61a4d6c8327a724f373/88ff69da82a8d61a4d6c8327a724f373.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": null,
+    "symbol": "88FF6",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/88ff69da82a8d61a4d6c8327a724f373/88ff69da82a8d61a4d6c8327a724f373.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "GODZ",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/88ff69da82a8d61a4d6c8327a724f373/88ff69da82a8d61a4d6c8327a724f373.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
