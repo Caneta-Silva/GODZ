@@ -1,0 +1,31 @@
+{
+    "id": "90921af01eb4aa1ed735d74e5cc8edeb",
+    "title": "Nazi Centurion on a Polar Bear: A Studio Ghibli Adventure",
+    "description": "nazi Centurion riding a polar bear in the style of studio Ghibli",
+    "created": "2024-12-21 15:17:51.145331",
+    "prompt": {
+        "prompt": "nazi Centurion riding a polar bear in the style of studio Ghibli",
+        "id": "619a86a8aaaf72ba4b4adf29e7ba39d1",
+        "prompt_history": [
+            "nazi Centurion riding a polar bear in the style of studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 15:14:50.998000",
+        "seed_prompt": "nazi Centurion riding a polar bear in the style of studio Ghibli",
+        "metadata": null,
+        "template": null,
+        "title": "Nazi Centurion on a Polar Bear: A Studio Ghibli Adventure"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643272756636.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/90921af01eb4aa1ed735d74e5cc8edeb/90921af01eb4aa1ed735d74e5cc8edeb.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Blizzard Legionnaire",
+    "symbol": "90921AF01",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/90921af01eb4aa1ed735d74e5cc8edeb/90921af01eb4aa1ed735d74e5cc8edeb.jpg"
+}
