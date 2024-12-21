@@ -1,0 +1,28 @@
+{
+    "id": "60501b65247c116b1ed06882591856b1",
+    "title": "Mystical Encounter: Reptilian Overlord Amidst UFO Swarm",
+    "description": "reptillian on a ufo swarm project blue beam in the style of studio Ghibli",
+    "created": "2024-12-21 16:26:06.107369",
+    "prompt": {
+        "prompt": "reptillian on a ufo swarm project blue beam in the style of studio Ghibli",
+        "id": "6568dac942669ad3f0c9cb961d42a055",
+        "prompt_history": [
+            "reptillian on a ufo swarm project blue beam in the style of studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 16:22:35.374465",
+        "seed_prompt": "reptillian on a ufo swarm project blue beam in the style of studio Ghibli",
+        "metadata": null,
+        "template": null,
+        "title": "Mystical Encounter: Reptilian Overlord Amidst UFO Swarm"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64628453835.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/60501b65247c116b1ed06882591856b1/60501b65247c116b1ed06882591856b1.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
