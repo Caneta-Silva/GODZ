@@ -1,0 +1,55 @@
+{
+    "id": "e46ac129b1373868de9a49a96c961e13",
+    "title": "Futuristic Desert Tribe Warrior - Studio Ghibli Inspired",
+    "description": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli",
+    "created": "2024-12-21 09:43:41.259402",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli",
+        "id": "10d9907ea27ecdbb63553a03dfa0ec75",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 02:34:39.550291",
+        "seed_prompt": "Create a landscape full body image of a futuristic desert tribe warrior in the style of Studio Ghibli",
+        "metadata": {
+            "element": "desert tribe warrior",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "desert landscape",
+            "animal": "horse",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "alien"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Desert Tribe Warrior - Studio Ghibli Inspired"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642493147706.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/e46ac129b1373868de9a49a96c961e13/e46ac129b1373868de9a49a96c961e13.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Sandstrider",
+    "symbol": "E46AC129B",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/e46ac129b1373868de9a49a96c961e13/e46ac129b1373868de9a49a96c961e13.jpg"
+}
