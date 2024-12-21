@@ -1,0 +1,45 @@
+{
+    "prompt": "\"Design an enchanting scene featuring a futuristic firefighter standing gallantly in a lush, vibrant forest that glows with bioluminescent plants, surrounded by whimsical creatures inspired by Studio Ghibli's iconic aesthetic. The firefighter, wearing a sleek, high-tech firefighting suit adorned with intricate details and futuristic gadgets, stands heroically against the backdrop of a shimmering waterfall cascading from floating islands in the sky. The scene is bathed in a soft, ethereal light, creating a dreamlike atmosphere that captures the essence of a Studio Ghibli masterpiece.\"",
+    "id": "fc169e2174201926bddcc03c74873621",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli",
+        {
+            "input": "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli",
+            "output": "\"Design an enchanting scene featuring a futuristic firefighter standing gallantly in a lush, vibrant forest that glows with bioluminescent plants, surrounded by whimsical creatures inspired by Studio Ghibli's iconic aesthetic. The firefighter, wearing a sleek, high-tech firefighting suit adorned with intricate details and futuristic gadgets, stands heroically against the backdrop of a shimmering waterfall cascading from floating islands in the sky. The scene is bathed in a soft, ethereal light, creating a dreamlike atmosphere that captures the essence of a Studio Ghibli masterpiece.\"",
+            "type": "enhanced"
+        }
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": "2024-12-21 12:50:45.015161",
+    "enhanced_prompt": true,
+    "seeded_at": "2024-12-21 02:34:39.642946",
+    "seed_prompt": "Create a landscape full body image of a futuristic firefighter in the style of Studio Ghibli",
+    "metadata": {
+        "element": "firefighter",
+        "style": "Studio Ghibli",
+        "aspect_ratio": "landscape",
+        "backdrop": "desert landscape",
+        "animal": "giraffe",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic",
+            "backdrop": "futuristic"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": false,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": false
+        },
+        "animal": false,
+        "name": "Standard",
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+    },
+    "title": "Whispers of the Forest: A Futuristic Firefighter's Tale"
+}
