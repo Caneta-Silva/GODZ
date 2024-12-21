@@ -1,0 +1,28 @@
+{
+    "id": "f5abe1f13670e4501ec352662733badc",
+    "title": "Entangled Unity: Mind, Body, Spirit, Reality",
+    "description": "the communication of quantum entanglement with the unity of the mind body spirit and, therefore, the resulting reality",
+    "created": "2024-12-21 17:58:25.828138",
+    "prompt": {
+        "prompt": "the communication of quantum entanglement with the unity of the mind body spirit and, therefore, the resulting reality",
+        "id": "2d51e68b2f6b22ad3dfa144fa3d03e30",
+        "prompt_history": [
+            "the communication of quantum entanglement with the unity of the mind body spirit and, therefore, the resulting reality"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 17:55:10.310100",
+        "seed_prompt": "the communication of quantum entanglement with the unity of the mind body spirit and, therefore, the resulting reality",
+        "metadata": null,
+        "template": null,
+        "title": "Entangled Unity: Mind, Body, Spirit, Reality"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64134474128.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/f5abe1f13670e4501ec352662733badc/f5abe1f13670e4501ec352662733badc.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
