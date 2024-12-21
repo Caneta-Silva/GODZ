@@ -1,0 +1,78 @@
+{
+    "id": "6c42dfb1bf5b43f2326fa0c947cfb651",
+    "title": "Futuristic Emperor of the Cosmos",
+    "description": "Futuristic Emperor of the Cosmos",
+    "created": "2024-12-21 02:03:17.251108",
+    "prompt": {
+        "prompt": "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli",
+        "id": "f9aed8295557d90049026fb80336862e",
+        "prompt_history": [
+            "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 01:33:02.895953",
+        "seed_prompt": "Create a landscape full body image of a futuristic emperor in the style of Studio Ghibli",
+        "metadata": {
+            "element": "emperor",
+            "style": "Studio Ghibli",
+            "aspect_ratio": "landscape",
+            "backdrop": "fortress",
+            "animal": "rhino",
+            "modifiers": {
+                "image": "full body",
+                "element": "futuristic",
+                "backdrop": "futuristic"
+            }
+        },
+        "template": {
+            "style": true,
+            "aspect_ratio": true,
+            "element": true,
+            "backdrop": false,
+            "modifiers": {
+                "image": true,
+                "element": false,
+                "backdrop": false
+            },
+            "animal": false,
+            "name": "Standard",
+            "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+        },
+        "title": "Futuristic Emperor of the Cosmos"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b64689797122.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/6c42dfb1bf5b43f2326fa0c947cfb651/6c42dfb1bf5b43f2326fa0c947cfb651.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "NeoDynast",
+    "symbol": "6C42D",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/6c42dfb1bf5b43f2326fa0c947cfb651/6c42dfb1bf5b43f2326fa0c947cfb651.jpg",
+    "seller_fee_basis_points": 100,
+    "external_url": null,
+    "attributes": {},
+    "collection": {
+        "name": "GODZ",
+        "family": "Caneta-Silva"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/6c42dfb1bf5b43f2326fa0c947cfb651/6c42dfb1bf5b43f2326fa0c947cfb651.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "maxSupply": 0,
+        "creators": [
+            {
+                "address": "CXretoxLBQDmFwDbf4qJYVX49UaA4PPMy3pCtfm2yzVH",
+                "share": 100
+            }
+        ]
+    }
+}
