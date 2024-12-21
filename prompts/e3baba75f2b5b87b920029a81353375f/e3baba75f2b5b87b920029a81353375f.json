@@ -1,0 +1,45 @@
+{
+    "prompt": "\"Generate a visually stunning landscape illustration portraying a futuristic alien police officer in an enchanting and whimsical style reminiscent of Studio Ghibli films. The scene should feature the alien officer standing majestically in a lush, otherworldly environment, with vibrant flora and fauna unique to their alien planet. The officer should be adorned in elaborate, futuristic law enforcement attire that seamlessly blends with the mystical surroundings, exuding an aura of authority and mystery. The backdrop should be filled with ethereal lighting and surreal elements that evoke a sense of wonder and imagination, inviting viewers into a fantastical world unlike any other.\"",
+    "id": "e3baba75f2b5b87b920029a81353375f",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
+        {
+            "input": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
+            "output": "\"Generate a visually stunning landscape illustration portraying a futuristic alien police officer in an enchanting and whimsical style reminiscent of Studio Ghibli films. The scene should feature the alien officer standing majestically in a lush, otherworldly environment, with vibrant flora and fauna unique to their alien planet. The officer should be adorned in elaborate, futuristic law enforcement attire that seamlessly blends with the mystical surroundings, exuding an aura of authority and mystery. The backdrop should be filled with ethereal lighting and surreal elements that evoke a sense of wonder and imagination, inviting viewers into a fantastical world unlike any other.\"",
+            "type": "enhanced"
+        }
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": "2024-12-21 12:50:13.070484",
+    "enhanced_prompt": true,
+    "seeded_at": "2024-12-21 02:34:39.959701",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien police in the style of Studio Ghibli",
+    "metadata": {
+        "element": "police",
+        "style": "Studio Ghibli",
+        "aspect_ratio": "landscape",
+        "backdrop": "tropical forest",
+        "animal": "gnu",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic alien",
+            "backdrop": "futuristic"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": false,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": false
+        },
+        "animal": false,
+        "name": "Standard",
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+    },
+    "title": "Enchanted Worlds: The Futuristic Alien Police Officer"
+}
