@@ -1,0 +1,31 @@
+{
+    "id": "57c0f59fa7152c52abab812de421bdc7",
+    "title": "Whispers of Mystique: Nazi UFO in Antarctica",
+    "description": "nazi ufo in Antarctica in the style of studio Ghibli",
+    "created": "2024-12-21 15:10:30.321324",
+    "prompt": {
+        "prompt": "nazi ufo in Antarctica in the style of studio Ghibli",
+        "id": "a1e7e9abc28ebf832618c1b8df8daf01",
+        "prompt_history": [
+            "nazi ufo in Antarctica in the style of studio Ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 15:08:29.039681",
+        "seed_prompt": "nazi ufo in Antarctica in the style of studio Ghibli",
+        "metadata": null,
+        "template": null,
+        "title": "Whispers of Mystique: Nazi UFO in Antarctica"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643664559919.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/57c0f59fa7152c52abab812de421bdc7/57c0f59fa7152c52abab812de421bdc7.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Aryan Mistral Glider",
+    "symbol": "57C0F59FA",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/57c0f59fa7152c52abab812de421bdc7/57c0f59fa7152c52abab812de421bdc7.jpg"
+}
