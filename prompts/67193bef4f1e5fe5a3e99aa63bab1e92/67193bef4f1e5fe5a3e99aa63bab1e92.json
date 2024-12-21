@@ -1,0 +1,40 @@
+{
+    "prompt": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
+    "id": "67193bef4f1e5fe5a3e99aa63bab1e92",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli"
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": null,
+    "enhanced_prompt": false,
+    "seeded_at": "2024-12-21 02:34:39.989951",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien firefighter in the style of Studio Ghibli",
+    "metadata": {
+        "element": "firefighter",
+        "style": "Studio Ghibli",
+        "aspect_ratio": "landscape",
+        "backdrop": "waterfall",
+        "animal": "elephant",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic alien",
+            "backdrop": "futuristic alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": false,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": false
+        },
+        "animal": false,
+        "name": "Standard",
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+    },
+    "title": "Futuristic Alien Firefighter in Studio Ghibli Style"
+}
