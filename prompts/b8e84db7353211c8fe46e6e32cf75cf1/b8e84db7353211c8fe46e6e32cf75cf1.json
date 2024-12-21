@@ -1,0 +1,40 @@
+{
+    "prompt": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli",
+    "id": "b8e84db7353211c8fe46e6e32cf75cf1",
+    "prompt_history": [
+        "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli"
+    ],
+    "revised_at": null,
+    "revised_prompt": false,
+    "enhanced_at": null,
+    "enhanced_prompt": false,
+    "seeded_at": "2024-12-21 02:34:39.897506",
+    "seed_prompt": "Create a landscape full body image of a futuristic alien tribe warrior in the style of Studio Ghibli",
+    "metadata": {
+        "element": "tribe warrior",
+        "style": "Studio Ghibli",
+        "aspect_ratio": "landscape",
+        "backdrop": "fortress",
+        "animal": "elephant",
+        "modifiers": {
+            "image": "full body",
+            "element": "futuristic alien",
+            "backdrop": "alien"
+        }
+    },
+    "template": {
+        "style": true,
+        "aspect_ratio": true,
+        "element": true,
+        "backdrop": false,
+        "modifiers": {
+            "image": true,
+            "element": false,
+            "backdrop": false
+        },
+        "animal": false,
+        "name": "Standard",
+        "template": "Create a {{ aspect_ratio }} {{ modifiers.image }} image of a {{ modifiers.element }} {{ element }} in the style of {{ style }}"
+    },
+    "title": "Futuristic Alien Tribe Warrior in the Style of Studio Ghibli"
+}
