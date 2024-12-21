@@ -1,0 +1,28 @@
+{
+    "id": "498b999936bc90fac89ca04707c1d45b",
+    "title": "Whispers of the Quantum Cloud",
+    "description": "the quantum cloud present in the moment, transmuting from the 3D reality into pure consciousness and seeing all in the style of ghibli",
+    "created": "2024-12-21 18:10:21.237640",
+    "prompt": {
+        "prompt": "the quantum cloud present in the moment, transmuting from the 3D reality into pure consciousness and seeing all in the style of ghibli",
+        "id": "58c15829760009c5762db99c1ed7e632",
+        "prompt_history": [
+            "the quantum cloud present in the moment, transmuting from the 3D reality into pure consciousness and seeing all in the style of ghibli"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 18:09:09.837018",
+        "seed_prompt": "the quantum cloud present in the moment, transmuting from the 3D reality into pure consciousness and seeing all in the style of ghibli",
+        "metadata": null,
+        "template": null,
+        "title": "Whispers of the Quantum Cloud"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b642531026083.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/498b999936bc90fac89ca04707c1d45b/498b999936bc90fac89ca04707c1d45b.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper"
+}
