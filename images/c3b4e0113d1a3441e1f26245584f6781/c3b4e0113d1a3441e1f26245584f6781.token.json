@@ -1,0 +1,31 @@
+{
+    "id": "c3b4e0113d1a3441e1f26245584f6781",
+    "title": "Illuminati Secret Society: Unveiling the Hidden Mysteries",
+    "description": "illuminati secret society",
+    "created": "2024-12-21 18:12:27.521967",
+    "prompt": {
+        "prompt": "illuminati secret society",
+        "id": "0b094ddfcabab46280033eb9dc6fe8da",
+        "prompt_history": [
+            "illuminati secret society"
+        ],
+        "revised_at": null,
+        "revised_prompt": false,
+        "enhanced_at": null,
+        "enhanced_prompt": false,
+        "seeded_at": "2024-12-21 18:10:54.998645",
+        "seed_prompt": "illuminati secret society",
+        "metadata": null,
+        "template": null,
+        "title": "Illuminati Secret Society: Unveiling the Hidden Mysteries"
+    },
+    "urls": {
+        "openai": "http://192.168.1.85:8081/generated-images/b643002196856.png",
+        "github": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/c3b4e0113d1a3441e1f26245584f6781/c3b4e0113d1a3441e1f26245584f6781.jpg"
+    },
+    "tags": [],
+    "model_version": "dreamshaper",
+    "name": "Enigma Brotherhood",
+    "symbol": "C3B4E0113",
+    "image": "https://raw.githubusercontent.com/Caneta-Silva/GODZ/refs/heads/main/images/c3b4e0113d1a3441e1f26245584f6781/c3b4e0113d1a3441e1f26245584f6781.jpg"
+}
